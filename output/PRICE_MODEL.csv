@@ -1,0 +1,1001 @@
+,PRICE_MODEL_ID,REGION,MIN_AMT,MAX_AMT,CUC_TIER1,CUC_TIER2,INTEREST_RATE,UP_FRONT_FEE_RATE,UP_FRONT_FEE,DESCRIPTION,CREATE_DATE,ST_FORMULA,TERM,INTEREST_RATE2,LOAN_TYPE,TERM_TIER1,TERM_TIER2
+1,123,Devin Hernandez,13,267,223,15,129,75,19,Cathy Duran,1987-04-15,Kayla Adams,89,85,Ashley Ward,150,63
+2,9,Christine Whitaker,1,92,22,21,64,103,77,Samuel Harris,1997-03-12,Jason Brown,50,193,Beth Salazar,26,65
+3,93,Susan Hogan,46,15,67,176,12,40,99,Erik Brown,2015-11-12,Jerry Jones,81,19,Monique Branch,253,11
+4,39,Angela Jones,135,4,36,20,42,55,115,Jacqueline Floyd,2010-01-11,Andrea Nichols,12,47,Justin Phelps,72,58
+5,38,Richard Holmes,37,21,43,182,154,23,155,Jennifer Collins,1992-10-08,Steven Ball,229,27,Terry Jackson,202,127
+6,141,James Moore,31,78,171,4,20,146,91,Carl Weber,1973-01-28,Stephanie Hill,54,84,Paul Green,82,57
+7,151,Dean Richardson,51,96,73,84,101,148,47,Steven Lambert,1981-07-26,Sharon Griffin,250,4,Theresa Mccarthy,63,93
+8,7,Nicole Hopkins,0,76,20,17,130,19,132,Theresa Bailey,2000-01-17,Howard Reed,29,127,Rebecca Drake,148,10
+9,219,Molly Reyes,179,40,29,35,171,8,154,Christopher Allen,2017-06-01,Jordan Kelly,124,160,Elizabeth Berry,132,127
+10,28,Kenneth Dominguez,59,70,137,86,16,61,32,Brenda Lam,1997-02-04,Karen Dennis,41,16,Adam Bell,125,55
+11,44,Brandon Kim,57,16,126,80,34,33,100,Heidi Taylor,1998-12-18,Travis Lewis,26,140,Martin Lynn,21,83
+12,211,Jason Manning,80,72,41,80,101,45,84,Michael Murray,2001-06-27,Vanessa Russell,7,131,Mr. Patrick Thompson,68,25
+13,10,Christopher Meyer,88,26,168,94,31,153,87,Rebecca Parker,2008-08-03,Dustin Garrett,112,69,Leah Walker,7,165
+14,31,Jessica Guzman,30,13,63,39,106,1,116,Brianna Jennings,1977-02-02,Michael Miller,167,78,Aaron Roth,27,112
+15,5,Kathryn Grant,27,34,124,54,5,164,159,Melinda Vargas,1995-02-18,Justin Wilson,27,5,Alexis Rodriguez,77,58
+16,39,Jim Williams,17,86,169,88,8,84,101,Lindsey Palmer,2005-10-13,Marcus Johnson,50,55,Michael Horton,143,56
+17,25,Melinda Coleman,79,51,117,15,1,60,51,Ashley Padilla,1987-02-24,Cody Benjamin,40,153,Ricky Mcdowell,119,132
+18,123,Kimberly Roberts,58,185,72,81,21,68,17,Lindsey Frazier,2012-06-20,Brian Thomas,4,65,Crystal Cabrera,72,65
+19,39,Debra Salinas,93,40,61,145,89,35,209,Diane Pacheco,2015-08-25,James James,81,49,Keith White,118,217
+20,145,Jason Moore,156,20,123,139,2,144,125,Ashley Brown,1998-12-13,Michael Hill,39,58,Mrs. Marilyn Cunningham MD,94,149
+21,132,Timothy White,47,80,70,74,20,13,136,Kaitlyn Burke,2005-04-28,Amy Gardner,15,58,Sarah Love,126,87
+22,104,Jose Patrick,156,188,19,39,41,240,28,Timothy Gentry,2005-10-29,Ms. Amy Christensen MD,125,149,Marcus Cohen,108,41
+23,171,Jacqueline Brown,93,1,66,70,36,178,167,Randy Boone,1983-06-01,Charles Maynard,54,96,Kevin Rice,66,39
+24,209,Mary Rice,4,154,80,96,108,43,47,Jason Church,1978-04-19,Robert Anthony,176,6,Mikayla Martin,52,6
+25,24,Rebecca Mendez,163,2,7,74,33,19,31,Alexandria Bradford,1973-05-14,Adam Edwards,37,203,Nicole Gilmore,41,47
+26,9,Christopher Johnson,66,169,165,100,50,64,148,Lisa Moore,2006-12-13,Edward Ray,56,20,Daniel Fuller V,2,67
+27,132,John Taylor,38,9,74,22,185,190,29,Christine Cordova,1983-02-03,Jennifer Vasquez,129,95,Kimberly Fields MD,213,26
+28,24,Ricardo Klein,86,29,39,35,144,99,28,Kristina Gomez,2003-03-04,Andrew Ball,44,17,Stephen King,14,26
+29,63,Samantha Cabrera,159,67,88,140,56,32,265,Alexis Tucker,1993-07-22,Jade Kirk,22,34,Samantha Taylor,15,62
+30,49,Sean Thornton,82,38,185,121,13,123,227,Susan Ross,1991-11-26,Daniel Martin,17,79,Nathan Stewart,14,144
+31,52,Cheryl Robbins,160,34,71,182,67,77,126,Jordan Vargas,2015-07-22,James Pineda,41,361,Thomas Weber,115,96
+32,194,Amanda Robinson,34,13,116,13,117,48,195,Kimberly House,2006-11-07,Caitlin Moran,75,220,Amy Hernandez,18,43
+33,178,Amy Baker,98,42,18,95,65,112,57,Frederick Murphy,2004-04-20,Jennifer Bruce,83,42,Christina Cohen,10,5
+34,164,Marilyn Green,104,67,34,69,43,113,43,Kristy Fowler,2011-06-13,Elizabeth Stewart,105,1,Paula Russell,6,43
+35,42,Dawn Holt,86,25,32,6,264,114,32,Theodore Terrell,1999-04-20,Chad Gonzales,233,19,Jocelyn Odonnell,77,34
+36,91,Elizabeth Crawford,52,63,109,119,82,44,21,Jackson Carlson,1990-04-02,Patrick Parrish,131,244,Richard Bond,43,38
+37,104,Alicia Marshall,94,9,101,86,60,69,81,Sergio Ho,2001-07-07,Lori Taylor,74,50,Richard Hicks,5,117
+38,110,Laura Curry,146,218,134,41,199,1,151,Mr. Nicholas Harris,1979-08-24,Joshua Brown,63,92,Rebecca Woods,77,122
+39,54,Julie Warren,78,100,8,32,122,154,53,Terri Trujillo,2008-04-07,Randy Davis,42,267,Debbie King,65,15
+40,108,Gary Norton,78,23,148,200,111,179,117,Richard Patterson,2010-06-16,Kimberly Williams,24,63,Jonathan Thomas,124,167
+41,16,Mark Foster,66,0,54,109,84,85,69,Nicole Gonzalez,1991-07-14,Paul Lopez,63,59,Steven Johnson,62,63
+42,25,Derrick Rush,55,7,213,63,7,211,141,Timothy Sampson,1976-10-15,Ashley Ford,36,107,James Shannon,30,54
+43,37,Laura Perez,9,134,45,98,53,47,2,Robert Campos,2001-12-05,William Taylor,110,60,Stacey Smith,114,78
+44,193,Shawn Dawson,187,131,157,141,145,152,4,John Powell,1995-09-26,Hector Shaffer,38,73,Tiffany Valdez,45,10
+45,93,John Baird,43,109,18,108,5,168,46,Kathryn Scott,1989-06-06,James Morales,234,225,Shannon Cox,25,11
+46,88,Robert Thornton,111,100,63,112,158,34,134,Cristian Valencia,1993-04-10,Nicole Medina,135,8,Aaron Davis,88,96
+47,55,Erin Lane,131,36,89,13,134,18,64,Kimberly Roberts,2003-12-04,Christopher Mitchell,39,47,Rachel Martin,83,5
+48,44,Casey Rose,47,64,50,41,4,26,67,Jennifer Lane,2002-04-01,Keith Wallace,100,86,Deborah Vaughan,34,123
+49,9,Evelyn Price,126,42,57,133,105,27,153,Carrie Wilson,1996-02-17,Heather Meadows,143,37,Makayla Graves,97,31
+50,16,Samuel Brewer,149,15,32,38,7,68,212,Latoya Clark,2016-05-01,Laura Molina,56,25,Sabrina Knight,150,87
+51,5,Mr. Christopher Wilkerson DDS,120,55,125,48,170,102,68,Jennifer Villarreal,1978-11-25,Tammy Thompson,121,29,Melanie Adams,3,162
+52,189,Heather Romero,68,62,28,45,12,5,28,Jessica Carlson,2002-12-02,Mrs. Kaitlyn Bush PhD,14,15,Katherine Carlson,106,25
+53,115,Lisa Stone,11,49,74,97,59,56,21,Marvin Gates,1974-12-19,Craig Steele,110,7,Daniel Dawson,212,2
+54,81,Megan Acevedo,0,65,92,62,45,227,8,Todd Berry,1997-04-30,Carolyn Barnes,147,12,Amanda Berry,95,100
+55,49,William Ellison,27,12,52,123,14,41,218,Maureen Peters,2004-07-25,Ryan Elliott,97,76,Kyle Hunter,180,87
+56,113,Meagan Miles,138,51,81,53,110,173,25,Mr. Louis Morris,2010-12-14,Zachary Barrera,8,19,Kristina Thompson,42,70
+57,11,Michael Oliver,65,110,114,66,159,93,73,Timothy Ferguson,1982-05-05,Jonathan Harrington,97,24,Thomas Simon,145,102
+58,19,Kimberly Garza,51,123,165,37,45,73,173,William Harris,2013-11-27,Melissa Waters,201,214,David Flores,12,199
+59,57,Jonathan Pineda,133,100,74,22,70,54,190,Patricia Delgado,2013-02-25,Rebecca Beck,84,97,Anthony Austin,51,98
+60,123,Travis Carroll,50,24,89,1,43,83,23,Nicole Chang,1991-01-21,Pamela Summers,10,35,Alexandra Higgins,137,102
+61,116,Mia Brooks,69,103,164,54,96,30,48,Julie Newton,1988-05-29,Andrew Rangel,32,36,Rebecca Welch,26,207
+62,255,Sandra Hunter,5,83,211,7,11,111,44,Deborah Frey,1974-09-19,Amanda Martinez,24,104,Cynthia Boyd,151,113
+63,18,Yvonne Johnson,3,0,58,110,34,96,155,Stacey Martinez,1978-04-22,Denise Taylor,115,8,Caleb Taylor,167,104
+64,82,Troy Bryant,211,66,61,54,93,107,73,Jaime Washington,1985-02-05,Samuel Ellis,104,123,Cory Brock,157,34
+65,55,Mark Mack,43,79,78,16,108,133,7,Jacob Good,1973-08-27,Benjamin Williams,223,147,Tyrone Fleming,158,63
+66,92,Wayne Flores,128,61,18,40,24,319,53,Logan Harvey Jr.,1993-04-10,Robert Martinez,49,92,Jeffrey Perez,91,99
+67,13,Karen Donovan,28,50,84,45,72,0,66,Christian Cisneros,2004-04-14,Laurie Rivera,24,25,Richard Martin,66,25
+68,83,Justin Reilly,29,87,190,145,83,103,9,John Carpenter,1978-05-16,Elizabeth Hernandez,18,190,Jessica White,54,15
+69,62,Julie Taylor,85,31,87,159,37,91,168,Jennifer Patterson,1973-09-08,Alexandra Schaefer,4,59,Courtney Lam,155,3
+70,35,Regina Chan,156,111,278,46,85,215,16,James Hall,2010-11-15,Johnny Martinez,64,114,Rebecca Smith,26,65
+71,8,Lauren Wells,19,89,154,3,68,125,193,Joseph Phillips,1977-09-09,Timothy Blanchard,12,68,Jeremy Hall,39,180
+72,10,Thomas Harris,50,47,159,58,131,107,142,Jacob Rodriguez,1973-04-24,Kristin Rodriguez,27,54,Rebecca Alexander,0,157
+73,11,Nathan Perez,143,203,17,22,36,50,255,Lori Holden,2009-09-07,Dawn Anderson,33,74,Andrea Day,74,13
+74,36,Eric Villa,117,67,3,48,106,219,41,Jonathan Powell,2011-09-10,Megan Andrews,22,146,Tony Mcdonald,107,210
+75,23,Kenneth Durham,9,190,101,38,50,276,145,Melinda Larson,2016-12-17,Laura Carney,144,89,Christopher Reyes,41,67
+76,67,Javier Mullins,25,114,107,23,69,29,85,Colleen Perry,1996-09-29,Ronald Sanchez,79,81,Mary Kim,55,56
+77,26,Lee Johnson,35,25,19,13,66,12,56,Danielle Alexander,2009-10-02,Patrick Taylor,27,89,Christina Rodriguez,95,29
+78,8,Mrs. Jodi Lowery DDS,49,80,11,83,38,23,37,Lisa Little,2011-10-01,Anne Montoya,143,9,Steve Jackson,23,47
+79,190,David Chung,13,51,53,16,69,119,113,Daniel Fry,2004-07-01,Angela Navarro,85,72,Michael Baker MD,43,36
+80,147,Dawn May,72,110,75,50,28,41,80,Matthew Mccormick,2015-01-15,Joshua Patterson PhD,0,147,Timothy Vargas,152,28
+81,143,Anthony Foley,122,126,94,63,131,35,40,John Jones,2015-01-17,Mary Kelley,3,120,James Roberts,122,23
+82,62,Elizabeth Nguyen,41,110,20,42,74,79,3,Michael Mata,1981-09-26,Timothy Montoya,81,23,Steven Miller,45,2
+83,85,Scott Johnson,1,96,133,45,16,211,47,Kimberly Clark,2007-12-11,Melinda Baldwin,5,17,Jessica Huffman,49,8
+84,109,Cody Carr,151,199,31,33,35,78,149,Joseph White,2000-10-06,Russell Hartman,117,103,Debra Smith,101,194
+85,51,Derrick Lane,128,63,149,133,68,63,3,Jesse Stout,1993-03-29,Alexandra Savage,64,25,Tamara Barker,56,67
+86,18,Rachel Chavez,103,145,15,73,386,13,115,Denise Stein,2004-12-10,Benjamin Morales,124,168,Maria Graves,115,3
+87,141,Timothy Webb,80,135,91,50,20,79,99,Mary Cantu,1997-08-11,Miranda Hernandez,159,47,Crystal Phillips,78,90
+88,231,Sierra Gordon,30,22,153,42,104,27,41,David Li,1987-04-06,Angela George,18,150,Marvin Wright,71,44
+89,27,Michaela Jones,15,82,57,120,149,99,22,Erin Berger,1986-08-18,Jason Mcdaniel MD,98,130,Karen Hawkins,130,144
+90,73,Melissa Ferguson,138,53,24,83,30,189,188,Regina Adams,1970-01-14,Nicholas Whitehead,78,32,Jacob Riley,121,35
+91,113,John Turner,126,2,59,104,112,238,24,Tara White,2015-06-05,Cynthia Marshall,47,46,Maurice Taylor,18,54
+92,132,Ronald Murphy,239,81,11,16,160,35,20,Maria Rodriguez,1999-01-11,Kara Manning,139,24,Tammy Valdez,51,22
+93,47,Kristy Blankenship,17,61,36,55,127,48,193,Felicia Morris,1973-04-30,Theresa Duncan,109,98,Gina Browning,121,74
+94,156,Sarah Hayes,95,10,45,46,228,180,51,Joel Mathis,2015-07-02,Philip Jackson,68,40,Kimberly Gonzalez,2,34
+95,115,Chad Ray,40,3,179,172,4,160,218,Willie Shaffer,2000-05-19,Ashley Smith,37,4,Mr. Rodney Porter,140,47
+96,33,Samantha Fisher,35,3,45,27,137,141,27,Sarah Castaneda,1971-09-23,Justin Roberts,77,60,Joseph Collins,71,6
+97,76,Rebecca Finley,25,12,139,41,4,17,34,Jacob Fitzpatrick,2018-07-06,Jasmine Pitts,103,106,Pamela Johnson,63,183
+98,76,Vanessa Henry,44,86,153,86,24,11,166,Curtis Holmes,2006-07-02,Kimberly Burns,173,56,Manuel Moore,122,48
+99,79,Stephen Collier,84,12,0,135,134,308,225,Michael Boyle,2006-05-04,Michael Hawkins,46,2,Cynthia Mccullough,167,122
+100,69,Michelle Rivas,47,20,115,8,45,167,22,Max Smith,1994-10-23,Amanda Martin,224,39,Ronald Barnes,150,91
+101,260,Michael Martin,139,73,30,9,187,86,142,Michelle Williams,1993-10-03,Patrick Young,2,30,Corey Coleman,65,144
+102,77,Elizabeth Matthews,40,157,53,273,9,5,11,Isaiah Flores,2014-10-16,Sarah Gallegos,196,29,Stephanie Mccullough,64,234
+103,71,Michael Perez,22,20,89,126,74,132,103,David Harris,2012-08-07,Steven Hinton,74,63,John Mata,44,29
+104,17,Marcus Strickland,34,69,194,172,20,89,152,Emily Rojas,2019-03-11,Regina Hoffman,159,82,Kathleen Shaw,21,63
+105,54,Andrew Martinez,95,82,145,130,33,99,40,Shelly Jones,2007-02-01,Joseph Bowen,2,87,Nicole Myers,245,18
+106,26,Melanie Lawson,147,13,72,3,76,16,26,Dustin Bailey,1982-07-20,Amber Richards,45,47,Nicole Ryan,21,10
+107,73,Casey Shaffer,82,150,89,37,5,91,39,Cathy Johnson,2014-10-12,Jason King,63,9,Dawn Jordan,13,109
+108,37,Theresa Gill,21,9,105,121,7,18,72,James Pratt,1984-05-14,Timothy White,47,59,Diana Black,110,6
+109,64,Jonathan Frederick,54,35,6,103,22,92,78,Monica Moran,2003-04-06,Jade Perez,80,215,Susan White,4,83
+110,9,Lindsay Ruiz,82,115,80,61,126,78,82,Bianca Mason,1970-12-12,Anna Sanchez,40,46,Heather Wilson,2,91
+111,10,Maurice Everett,48,27,14,9,18,77,39,Jacqueline Andrews,1994-08-17,Ricky Hernandez,184,288,Michael Hoover,5,34
+112,1,Sarah Parker,47,69,28,71,86,59,110,Christine Hunt,2009-03-18,Bridget Holmes,111,46,Paul Gray,128,138
+113,142,Ashlee Haynes,6,90,13,47,47,153,51,Tara Contreras,2015-07-16,Daniel Cooper,173,105,Alyssa Russell,36,39
+114,60,Andrew Molina,0,253,14,16,119,186,11,Juan Hall,1976-08-05,Regina Hickman,59,160,Alyssa Harmon,54,12
+115,13,Tiffany Conway,24,251,168,35,90,30,128,Elizabeth Long,2002-08-10,Scott Bright,11,261,Shannon Koch,81,52
+116,5,Joseph Hood,1,68,77,17,45,152,41,Robert Combs MD,2010-08-22,Whitney Novak,85,167,Michael Mason,98,74
+117,2,Debra Calderon,157,57,17,42,92,172,33,Thomas Scott,1972-12-29,Regina Melton,114,52,Thomas Wilson,32,41
+118,52,Roberto Mcdonald,98,88,19,72,83,6,131,April Sherman,1991-05-13,Amy Lewis,11,149,Peter Oliver,42,77
+119,13,Mario Rodriguez,13,53,106,87,41,73,121,Alicia Avila,1979-09-08,George Garrison,125,20,Lacey Lewis,193,46
+120,55,Michael Banks,0,9,120,142,133,126,189,David Larson,1978-02-21,Dana Martinez,6,5,Victoria Mcclure,61,29
+121,17,Peggy Jones,23,2,136,52,53,10,44,Candace Dennis,1978-10-15,Jennifer Hernandez,145,44,David Small,33,225
+122,93,Stephanie Kaiser,49,21,32,64,29,139,18,Brandon Owen,1993-07-22,Erica Little,89,39,Latoya Wells,23,64
+123,65,Jeremy Pierce,159,170,136,3,22,2,162,Roger Marshall,1970-08-10,Holly Park,70,5,Meagan Torres,42,72
+124,38,Justin Barton,50,95,310,69,123,56,41,Cynthia Morris,2008-07-07,Rachel Bowman,107,125,Michele Bowman,32,149
+125,143,Catherine Robinson,95,91,8,114,10,16,165,Jessica Mendoza,1982-09-18,Lynn Carpenter DDS,20,164,Edward Mcdowell,39,56
+126,70,Michelle Baird,117,39,187,74,39,8,16,Tracy Fields,1975-10-30,Elizabeth Nunez,183,30,Jim Harrell,154,66
+127,133,Marcus Clark,73,26,59,52,101,85,38,Shelly Martinez,2009-05-08,Rachel Dunlap,110,66,Linda Small,73,120
+128,196,Michael Valdez,116,224,91,90,92,7,161,Joe Wolfe,2001-10-28,Cheryl Walker,64,33,Jason Hall,96,126
+129,37,Lorraine Cameron,151,237,16,11,63,6,17,Gary Garcia,2018-09-25,Nathan Ward,162,199,Rachel Hall,88,119
+130,15,Mr. Brandon Wade MD,93,0,7,154,101,40,24,Joshua Gordon,1992-08-22,Jerry Howard,81,27,Alyssa Peterson,190,161
+131,99,Jean Harris,11,26,8,179,12,10,170,Stanley Howard,1977-07-31,David Haynes,61,126,Anthony Kim,13,79
+132,8,Kristie Lee,99,59,88,79,17,74,74,Samantha Braun,1971-05-18,Collin Morgan DDS,77,63,Kaitlyn Simmons,96,1
+133,24,Dr. Terry Gates MD,169,46,1,121,129,2,161,Kimberly Moore,2016-12-20,Laurie Brown,3,72,Erin Moore,97,89
+134,100,Thomas Estrada,36,116,135,37,150,107,64,Jose Ochoa,1972-05-02,Mr. Mark Torres,97,261,Amber Bautista,62,4
+135,13,James Golden,55,128,42,220,2,11,8,Paul Bryant,1992-12-26,Dustin Rogers,22,81,James Ramirez,65,28
+136,118,Stacy Parker,110,36,13,77,184,47,21,Maurice Tate,1986-03-06,Emily Duke,5,70,Brandy Waters,52,5
+137,187,Jon King,107,108,55,102,122,109,16,Anthony Christensen,2005-12-25,Nancy Williams,21,82,Heather Pennington,189,92
+138,23,Jennifer Turner,32,74,47,40,105,4,136,Daniel Hernandez,1979-09-09,Mrs. Christina Abbott,49,58,Jennifer Steele,218,71
+139,0,Jerry Bryant,110,134,23,42,67,170,197,Jennifer Chapman,1989-11-28,Joseph Taylor,38,43,Michael Harvey,165,51
+140,137,Martha Snyder DDS,57,41,168,265,212,33,62,Ryan Hayes,2012-06-07,Derrick Mendez,140,298,Samuel Garcia,14,53
+141,172,Kristin Galloway,13,27,5,171,35,109,47,Ashley Shaffer,1979-02-21,Dawn Ortiz,28,22,Michelle Williams,88,91
+142,32,Justin Moore,56,33,1,12,53,151,1,Gregory Evans,2003-02-20,Jennifer Horne,42,163,Eddie Ferrell,102,138
+143,0,Michael Bennett,22,169,45,3,80,66,19,Janice Robbins,1980-05-15,Crystal Porter,13,5,Maria Steele,3,22
+144,204,Robin Palmer,32,110,123,55,158,63,20,Cathy Bryant,2006-01-07,Jonathan Shields,99,1,Taylor Watkins,67,116
+145,66,Crystal Snyder,75,16,101,163,214,108,92,Michelle Martinez,1989-07-24,Michelle Hale,35,67,David Long,148,38
+146,99,Dustin Johnson,88,19,19,56,116,12,55,Gregory Douglas,1980-09-23,Mary Miller,18,0,James White,145,94
+147,114,Jennifer Bartlett,117,112,27,8,98,67,84,Maria Navarro,1994-08-29,Barbara Olsen,55,57,Bethany Marquez,130,133
+148,105,Kelly Benitez,45,115,121,41,103,76,80,Kyle English,1995-04-18,Kristopher Brown,6,45,Robert Aguirre,6,49
+149,155,Amanda Howard,89,83,113,101,62,86,30,Joel Lopez,1987-11-18,James Vance,21,74,Tara Roberts,139,5
+150,117,Caleb Allen,136,4,18,191,140,307,70,Matthew King,2012-01-02,Melissa Woods,12,152,Mary Owens,68,107
+151,120,Molly Wilson,109,144,234,4,59,82,46,Frank Silva,2007-07-16,Robert Rodriguez,135,0,Jennifer Hoffman,111,88
+152,29,Howard Perkins,158,80,57,47,104,187,37,William Martin,1977-09-23,Monica Sparks,96,69,Micheal Lester,53,49
+153,201,Tyler Jackson,72,157,64,196,44,59,45,Sandra Blair,1984-10-27,Angela Henderson,8,23,Douglas Clark,39,82
+154,99,Mr. Daniel Williams Jr.,54,64,138,22,176,51,164,Timothy Schaefer,2013-08-14,Mike Richmond,23,32,Samantha Martin,134,11
+155,89,Jennifer Taylor,47,27,60,8,62,100,40,Jennifer Hernandez,1997-09-10,Michael Hernandez,181,34,Rebecca Brown,22,1
+156,14,Albert Boone,40,101,14,52,167,93,170,Tamara Rodriguez,1991-10-04,Helen Cisneros,92,17,Cody Calhoun,13,83
+157,20,Patricia Andrade,69,62,124,37,150,74,87,Tamara Haynes,2014-09-09,Emily Rodriguez,88,64,Jacob Harris,60,60
+158,148,Jessica Fowler,107,261,158,150,42,69,86,Lawrence Simmons,1979-01-26,Nancy Griffin,49,154,Benjamin Coleman,36,110
+159,178,Catherine Williams,75,122,2,183,4,62,152,Alexander Campos,2007-04-09,Mark Robinson,31,4,John Norris,44,29
+160,65,Timothy Garcia,9,78,100,25,82,15,204,Amber Thornton,2014-06-11,Jamie Barrett,56,34,Cassandra Valdez,167,7
+161,95,Kristin Goodman,105,22,118,12,86,50,63,Christopher Thompson,1972-02-19,Cynthia Rowe,14,99,Kathleen Mendoza,45,10
+162,179,Patricia Schmidt,82,192,32,0,119,5,56,Jason Williams,1992-05-30,Michael Munoz,122,51,Donald Mcfarland,35,10
+163,58,Briana Evans,66,34,118,40,28,139,192,Jennifer Reid,2003-08-07,Nancy Hogan,29,49,David Collins,119,12
+164,1,Jessica Byrd,71,92,82,16,90,49,20,Marilyn Farley,2007-08-21,Robert House,17,57,Dana Porter,46,187
+165,146,Juan Jones,4,25,104,10,104,130,97,Caleb Jones,1980-08-20,Robert Luna,47,199,Jennifer Harris,80,84
+166,73,Thomas Ingram,81,54,46,158,2,160,19,Mary Mitchell,1982-08-18,Zachary Dickerson,66,139,Molly Dyer,131,89
+167,217,Stephen Murphy,94,181,66,183,93,30,10,Karen Salazar,2006-03-23,Erica Fisher,126,17,Jason Hernandez,60,81
+168,32,Ashley Elliott,133,8,40,13,55,132,99,Jose Francis,1993-02-19,Christopher Robertson,0,65,Christopher Gilmore,66,102
+169,66,Eric Brooks,45,109,74,82,118,65,102,Cody Johnson,2003-05-11,Jessica Hughes,16,42,Stephen Horton,50,100
+170,117,Bianca Washington,55,41,14,170,175,149,35,Christine Gallagher,1980-02-21,Eric Bowman,82,18,Jorge Robinson,28,115
+171,6,Laura Lewis,1,33,7,153,5,153,8,Misty Jenkins,1997-10-12,Brandon Rios,58,308,Katie Williams,142,50
+172,19,Michael Allen,116,94,98,99,170,150,103,James Snyder,1980-02-29,Angela Manning,125,71,Ashley Wright,93,254
+173,35,Kimberly Coleman,3,101,28,152,76,30,182,James Juarez,1983-01-28,Christopher Smith,104,33,Christopher Jackson,22,91
+174,97,Heather Davis,34,70,103,75,32,13,59,Alicia Rodriguez,1999-07-04,Mr. Daniel Espinoza,129,129,Brent Crosby,29,136
+175,2,Zachary Collins,97,67,113,2,246,18,66,Christine Luna,2011-07-02,Johnathan Reed,40,38,Jeffrey Johnson,99,142
+176,49,Michael Long,18,58,183,105,69,19,4,Jared Kim,1993-09-10,Elizabeth Brown,138,208,Susan Mcdonald,75,18
+177,6,Matthew Hernandez,79,66,12,146,167,7,55,Dr. Justin Bowers,1982-09-06,Mrs. Laura Newman,63,23,Gregory Jones,115,44
+178,19,Stacy Becker,4,100,16,55,69,96,93,Raymond George,2014-10-19,Andrew Glenn,33,128,Gregory Jones,65,265
+179,51,Anthony Esparza,37,34,118,59,199,222,115,Amy Wolf,1995-04-10,Courtney Bennett,55,48,Scott Colon,57,154
+180,1,Daniel Fisher,253,13,30,183,27,20,15,Edward Fitzgerald,1992-02-07,Meghan Nunez,21,10,Shannon Brady,80,10
+181,15,Jessica Hebert,12,47,96,62,31,80,44,Samantha Howe,2006-09-12,Maria Harper,90,26,Michael Jackson,80,97
+182,85,Renee Walker,2,39,10,5,121,10,170,Danielle Hutchinson,1971-02-22,Daniel Martinez,112,62,Carla Johnson,74,31
+183,193,Katie Carlson,5,15,166,161,69,49,141,Cassie Cline,1976-08-16,Amy Hamilton,162,72,Ronald Weaver II,135,8
+184,20,Tracey Reid,133,184,134,102,62,87,23,William Frazier,1981-04-02,Stephen Brown,139,171,Peter Gardner,3,54
+185,55,Lisa Montgomery,131,34,149,22,86,234,143,Stephanie Mcgrath,1996-03-30,Theresa Watson,0,35,Jose Martinez,147,74
+186,22,Michael Smith,138,42,8,30,14,54,83,Erica Sweeney,2012-04-03,Shane Nelson,251,4,Christine Lee,127,34
+187,81,Angela Wilcox,109,7,13,118,28,30,83,Gilbert Bishop,2015-11-06,Shannon Franklin,82,146,Michael Anderson,43,31
+188,78,Cody Perkins,63,7,169,96,61,6,25,Kelly Moody,2012-04-18,Sierra Duncan,134,147,Heather Nguyen,40,174
+189,114,Javier Bowman,21,46,98,111,136,138,23,April Park,1992-04-12,Evan Lewis,19,45,Douglas Cox,39,15
+190,73,Randy Smith,50,166,30,50,59,49,170,Vicki Horne,1987-01-26,Karen Wilson,7,257,Kristine Adams,50,147
+191,105,John Foster,163,146,43,21,145,26,13,Lisa Davis,1992-11-17,Ian Moore,23,215,Michael May,35,58
+192,0,Adam Garcia,58,71,130,15,34,107,29,Peter Roy,2007-12-16,Christina Whitaker,41,198,Deanna Rodriguez,59,26
+193,49,Sean Johnson,211,153,90,14,63,48,117,Marc Thompson,1980-05-29,Crystal Palmer,0,99,Adrienne Mack,129,24
+194,25,Christopher Chen,136,189,30,18,119,33,23,Deanna Cook,2011-06-04,Susan Calderon,12,32,Alexander Mcguire,112,127
+195,204,Shelly Harris,38,4,48,9,3,87,35,Thomas Murray,2016-12-20,Rachel Ewing,55,4,Barbara Lewis,2,64
+196,170,Gabrielle Roberts,53,43,61,22,32,52,65,Allen Oneal,1988-12-30,John Morrison,53,13,Scott Martin,35,27
+197,62,Mr. Anthony Murray,157,56,85,17,73,76,8,Jennifer Oliver,1994-03-29,Susan Spencer,60,48,Bryan Vargas,73,39
+198,110,April Kim,26,178,51,6,0,43,36,Cassidy Smith,2019-03-12,Jennifer Williams,172,77,Jeremy Freeman,147,178
+199,103,Kristen Hawkins,43,62,50,92,54,60,63,Sharon Rogers,1987-05-17,Elizabeth Nelson,0,25,Logan Stein,142,97
+200,13,Elizabeth Dudley,125,98,106,134,45,48,69,Jacob Johnson,1990-03-06,Amanda Howard,16,156,Matthew Bryant,92,41
+201,55,Christopher Johnson,31,68,11,0,76,59,73,Shane Spears,2018-08-30,Pamela Hernandez,85,69,Brianna Jackson,181,75
+202,7,Scott Hernandez,49,68,1,111,58,83,48,Robert Russell,2019-06-23,Sharon Hernandez,44,21,Alexis Smith,23,78
+203,194,Rebecca Adkins,30,120,18,33,176,0,145,Bryan Tucker,2017-04-19,Edward Garza,38,46,Claire Mendoza,116,88
+204,177,Robert Smith,91,189,90,24,33,80,214,Joshua Norris,1975-06-06,John Green,85,98,James Scott,28,77
+205,80,Dennis Brown,8,9,34,42,27,137,54,Bradley Flores,1981-12-13,Cassandra Shepard,2,76,Sean Patrick,170,172
+206,94,Denise Craig,57,100,38,109,3,81,56,Timothy Castro,1997-05-08,Renee Greene,9,104,Lauren Johnson,11,65
+207,23,Angel Palmer,178,37,119,125,130,17,98,Ralph Day,1993-07-28,Daniel Porter,96,100,Austin Padilla,193,38
+208,35,Nicholas Reilly,56,3,47,14,115,11,91,Cheryl Anderson,1989-07-18,Taylor King,163,104,Grace Sheppard DDS,0,44
+209,75,Steven Williams,136,192,89,112,12,60,59,Crystal Flores,1997-04-21,Jennifer Cox,220,40,Sherri Ross,66,2
+210,266,Jessica Sandoval DDS,36,69,201,203,205,54,2,Ryan Hanson,2000-03-05,Pamela Harvey,87,47,Jonathan Hebert,140,58
+211,162,Kathy Lawrence,71,100,39,37,66,36,66,David Hammond,1976-01-29,Nicholas Mcbride,7,129,Bradley Walker,62,122
+212,59,William Brown,103,44,9,0,79,33,17,Jennifer Bass,2003-10-18,Christopher Smith,248,68,Donna Williams,143,58
+213,102,Kevin Schwartz,259,33,116,22,56,111,37,Dana Barnes,1987-11-01,Laura Davis,86,70,Erica Hall,22,15
+214,82,Nancy Reed,140,33,92,18,69,16,47,Alexander Russo,1973-10-13,Sarah Medina,23,60,Jacob Ramirez,69,263
+215,26,Jason Smith,12,75,22,33,4,31,51,Abigail Reed,1989-12-29,Amanda Roberts,36,135,Christopher Gentry,195,57
+216,96,Ethan Vega,38,79,89,33,67,41,166,Stephen Rodriguez,1987-04-16,Stephanie Hahn,45,54,Jason Schaefer,33,53
+217,101,Alice Santos,48,4,86,12,18,198,43,Kevin Campbell,1970-09-24,Meghan Kennedy,43,32,Jade Esparza,100,86
+218,14,Andrew Ross,134,16,30,71,8,27,30,Kyle Bradley,2006-11-07,Rodney Williams,136,20,Angela Mccullough,97,228
+219,3,Donna Jones,11,38,1,45,134,49,5,Mrs. Wendy Weaver,2004-07-01,Mario Martin,38,96,Tanya Johnson,61,122
+220,50,Kimberly Wolf,72,24,26,78,96,44,55,Jack Pearson PhD,1970-03-23,Monique Stout,182,82,Matthew Johnston,175,104
+221,58,Donna Hoover,56,18,3,75,8,14,13,Sharon Bailey,2011-12-12,Robert Thomas,127,68,Melissa Shah,150,1
+222,73,Angela Smith,103,226,44,14,81,3,25,Stephen Miller,2013-04-01,Wanda Sosa,19,31,Cesar Wheeler,20,9
+223,72,William Richards,46,13,24,49,39,13,19,Ronald Stewart,2003-09-25,Diane Newton,40,9,Carmen Alexander,16,73
+224,7,Isabella Robertson,80,63,47,82,17,178,15,Andrew Lucas,1979-05-17,Joseph King,53,45,Sarah Peterson,61,70
+225,6,Lauren Contreras,76,61,43,15,105,129,94,Janet Summers,1977-12-04,Cynthia Goodwin,85,55,Ian Mathis,6,7
+226,74,Joshua Mclaughlin,39,5,101,45,38,1,7,Christina Smith DVM,1974-09-22,Peter Wheeler,21,146,Daniel Baker,144,38
+227,183,Mark Nelson,138,98,77,1,25,77,106,Kevin Elliott,2002-09-30,Jerry Owens,98,85,Melissa Owens,214,61
+228,24,Eric Morales,179,71,188,47,41,87,19,Kenneth Goodwin,1973-06-05,Dylan Chavez,195,78,Sandra Moran,255,122
+229,179,Brent Jackson,104,48,180,65,97,227,47,Deborah Miller,2018-02-22,James Moses,11,196,Jacqueline Green,74,134
+230,35,Ryan Carter,0,60,23,158,2,79,248,John Gordon,1972-03-26,Stephanie Stout,23,111,Michelle Russell,22,71
+231,31,Krista Green,2,0,1,81,7,148,210,Mark Baldwin,1981-04-10,Kevin Meyer,89,119,Devon Martin,2,103
+232,39,David Porter,30,68,22,141,6,168,31,Timothy Jenkins,1996-05-18,Christopher Roberts,20,25,Bianca Williams,47,107
+233,67,Stacey Berg,96,34,20,118,21,49,179,Nathaniel Owens,2006-10-26,Robert Mitchell,51,24,Erica Wagner,13,81
+234,114,Stacey Fernandez,248,49,47,14,151,12,42,Adam Randall,2011-06-13,David Hooper,107,14,John Hall,81,52
+235,32,Teresa Johnson,82,181,118,203,19,57,30,Dana Reed,2002-08-31,Curtis Rodriguez,58,16,Nathaniel Hernandez,129,66
+236,71,Gina Mckee,29,43,34,32,160,65,121,Ian Cook,1988-10-24,Marcus Robinson,108,84,William Murray,139,63
+237,32,Zachary Anderson,57,24,61,105,7,43,107,Samuel Guerra,2003-10-13,Christina Fleming,297,86,Melissa Lawrence,15,80
+238,51,David Dickerson,172,20,91,32,80,46,178,Jillian Robinson,1995-08-13,Timothy Torres,73,62,Rachael Johnson,29,73
+239,27,Stephanie Galloway,103,18,48,150,37,57,103,Daniel Compton,2012-12-10,Frank King,73,70,Michael Stevens,3,129
+240,14,Nicole Holmes,108,119,77,61,107,136,80,Sherry Dennis,1986-02-20,Jamie Lambert DDS,94,1,David Cook,38,42
+241,123,Taylor Carlson,154,180,35,19,41,121,236,Dr. Jennifer Elliott,2009-12-18,Tiffany Grant,82,56,Martha Thomas,9,103
+242,28,George Warren,113,11,96,51,54,66,174,Francisco Choi,1992-05-15,Bruce Jackson,143,10,Tabitha Peterson,176,7
+243,13,Stephanie Mooney,30,63,12,38,28,207,32,Heather Robertson,1991-03-21,Carrie Mcmahon,199,127,Ryan Santos,103,0
+244,122,David Mcdonald,123,81,149,3,137,142,52,Stephanie Robinson,1997-07-28,James Fernandez,35,433,Nancy Rivera,12,133
+245,74,Robert Alvarez,142,85,148,149,137,127,71,Joshua Montgomery,1978-03-27,Samantha Chavez,148,15,Jessica Gibson,122,74
+246,35,Jeffrey Simpson,135,173,104,109,94,169,138,Maria Glover,1992-05-02,Andrew Hicks,184,1,Kim King,204,92
+247,20,Brian Brown,54,112,80,79,41,137,98,Joshua Blake,2003-02-18,Melissa Chung,75,280,Eric Gardner,88,106
+248,29,Patty Brooks,98,60,28,132,85,167,183,Caitlin Gordon,1975-11-17,Felicia Lee,109,81,Craig Cunningham,57,99
+249,34,Cheryl Reed,134,12,90,108,228,156,38,Deanna Nguyen,1993-08-18,Vickie Boyd,175,20,Jacqueline Munoz,76,158
+250,55,Crystal Figueroa,99,51,56,41,6,122,151,Elizabeth Roberts,2013-02-13,Michael Hall,67,9,William Lee,139,53
+251,12,Kimberly Thompson,68,85,181,42,108,127,80,Jeffrey Lee,2013-01-19,Angela Guerrero,8,41,Pam Stout,37,32
+252,46,Melissa Massey,39,84,23,106,139,5,55,Janet Dunn,2012-06-18,Deborah Jones,62,130,Robyn Miller,112,19
+253,21,Karen Holt,170,217,26,179,15,2,248,Seth Lin,2007-12-05,Matthew Miller,110,122,Taylor Rollins,51,114
+254,7,Alan Cole,66,45,188,68,57,221,169,David Williams,1986-07-16,Taylor Mckee,33,31,John Porter,21,193
+255,22,Yvonne Allen,48,90,119,55,152,99,127,Michael Duncan,2012-10-22,Colleen Cooper,42,109,Andrea Foster,0,108
+256,48,Ann Thompson,54,164,77,66,120,67,135,Carol Andrade,1981-01-22,April Sutton,55,152,Lori Brown,25,161
+257,87,Andrea Miller,30,251,131,141,74,72,55,Aaron Thomas,1993-02-06,Carlos Duke,253,8,Monica Garrett,185,183
+258,224,Paul Arias,121,25,83,71,89,16,90,Angela Martin,2014-03-30,Tracy Valdez,33,24,Casey Oconnell,114,74
+259,41,Donna Osborn,14,156,129,96,191,18,36,Karen Beasley,1974-03-31,Cynthia Whitehead,233,4,Penny Carter,30,60
+260,134,Bonnie Hall,75,54,177,159,98,73,83,Whitney Freeman,2012-08-18,David Hudson,118,33,Madison Gutierrez,54,38
+261,146,Carrie Baxter,62,42,126,53,5,39,83,Lindsey Adams,1996-09-03,Christine Hamilton,43,43,Susan Evans,44,118
+262,44,Linda Ho,116,160,102,105,95,23,22,William Simon,1975-10-27,Alec Underwood,2,51,Jeff Moore,9,103
+263,172,Yesenia Robinson,160,24,119,2,70,25,11,James Gonzalez,1982-04-06,Tiffany Brooks,2,148,Charles Mitchell,178,145
+264,61,Victor Gibson,68,1,190,58,37,131,48,Wyatt Lawrence,2006-11-09,Earl Williams,67,67,Melissa Wright,90,81
+265,130,Angela Boyd,34,85,33,277,34,77,202,William Gutierrez,2003-10-05,Joanna Keith,85,69,Robin Davidson,70,8
+266,47,Nicholas Larson,127,100,105,134,11,142,0,Christian Boyer,2000-07-20,Michelle Abbott,25,65,Molly Hill,66,43
+267,229,Donna Hall,164,4,10,98,44,47,199,Sheila Turner,1997-08-07,Jim Mcdonald,199,177,Donald Smith,61,10
+268,52,Nancy Coleman,83,129,98,93,20,71,69,Elizabeth Woodard,1972-12-29,Thomas Berg,1,93,Stephanie Johnson,71,28
+269,39,Tina Johnson,97,156,148,37,130,123,35,Daniel Middleton,1993-09-23,Michael Phillips,50,26,April Jones,23,79
+270,57,Michael Norris,63,155,99,68,124,67,48,Dawn Gonzalez,2015-10-15,Hannah Rollins,22,32,Nicole Guerrero,25,54
+271,0,Joseph Rodriguez,12,35,10,75,113,208,221,Dustin Novak,1997-11-09,Brenda Foster,196,71,April Romero,6,17
+272,76,Dr. Grace Robinson,21,119,203,44,69,99,154,Paula Barnes,1983-03-02,Jerry Mcfarland,109,159,Tiffany Mills,111,22
+273,171,Sarah Rodgers,46,127,38,45,153,109,286,Tyrone Knight,2007-03-16,Patricia West,34,140,Jessica Daniels,46,126
+274,57,Andrea Silva,9,212,101,0,0,74,173,Christopher Stephens,2009-04-19,Sandra Little,128,135,Jodi Morgan,220,53
+275,94,Ross Alvarez,68,0,39,29,9,11,240,Samantha Cook,2008-02-11,Ronald Jackson,46,62,David Gutierrez,17,27
+276,61,Mr. Colton Farley,198,8,32,107,31,139,220,Daniel Hardy,1996-08-28,Julie Daniel,107,42,Adrian Mills,49,37
+277,68,Selena Mendoza,92,9,17,44,325,125,117,Ashley Murphy,2008-01-25,Sandra Mueller,67,88,Jenna Sanders,79,47
+278,174,Michael Rubio,14,55,32,10,267,163,17,Terry Schultz,2009-01-01,Luis Williams,169,200,Gina Rose,3,135
+279,119,James Allen,161,25,125,95,43,98,31,Michele Garcia,1976-08-06,Shelby Wells,172,226,Paul Benson,19,37
+280,31,Rhonda Hoffman,5,14,58,17,117,92,105,Angela Jones,1975-09-18,Cole Osborne,95,78,Laura Wilson,46,20
+281,97,Erica Hartman,51,72,31,41,105,177,132,Victoria Williams,1993-12-03,Justin Nelson,117,34,Cassandra Acevedo,63,14
+282,155,Jacqueline Burton,139,42,16,118,118,117,40,Angela Evans,2000-10-02,Katherine Price,87,122,Zachary Graham,98,216
+283,126,Melissa Williams,29,6,9,1,43,105,127,Brenda Waller,1990-03-10,James Coleman,156,128,Mariah Warren,138,21
+284,55,Donald Smith,33,165,123,17,29,59,74,Amy Austin,1994-03-08,Dr. Albert Owens,20,34,Mark Walsh,37,2
+285,154,Kevin Wheeler,70,16,48,26,24,86,41,Erin Chapman,2012-08-31,Heather Beck,79,35,Victor Miller,216,50
+286,99,Lisa Garza,178,57,89,93,52,20,68,Morgan Lane,1973-08-23,Larry Henry,75,181,Ryan Long,115,7
+287,26,Douglas Oneill,15,8,181,55,178,61,56,Amber Johnson,2015-12-02,Amy Cervantes,185,12,Elizabeth Perry,28,100
+288,69,Michelle Smith,115,13,102,211,197,10,109,Anthony Martin,1976-03-31,Eric Howell,76,71,David Roman,60,119
+289,5,Laura Berry,70,26,32,84,92,77,25,Richard Brown,1978-08-26,Peter Jacobs,137,111,Kathleen Leblanc,77,145
+290,175,Lori Saunders,125,79,62,112,99,185,18,Sarah Silva,2000-03-25,Scott Harris,142,96,Melissa Shepherd,95,19
+291,98,Emily Hines,50,43,57,1,113,78,45,Donna Jordan,2010-07-25,Nancy Kelly,181,15,Eric Payne,6,79
+292,83,Jenna West,122,3,181,101,57,13,123,Elizabeth Henderson,2000-01-15,Logan Wilson,16,66,Jennifer Alvarez,52,41
+293,54,Ashley Harper,88,264,50,54,221,121,45,Cheryl Sparks,1999-09-06,Brittany Lewis,5,137,Michael Simmons,88,31
+294,141,Karen Clark,44,0,41,66,68,30,135,David Jacobson,1996-06-15,Sheri Brooks,37,11,Richard Ewing,108,28
+295,134,Deborah Brown,31,128,28,61,13,58,62,Patricia Chambers,2001-04-15,Elizabeth Marquez,168,51,Nichole Wilson,21,47
+296,173,Jason Jimenez,23,84,115,108,170,67,131,Joshua Carter,1999-07-02,Alyssa Simmons,29,23,Karen Reid,21,126
+297,28,Jason Miller,7,186,145,27,94,1,86,Jenna Benjamin,1993-06-10,Kimberly Carter,224,102,Megan Stevenson,48,78
+298,1,David Bridges,103,14,64,133,3,162,87,Alexander Simmons,2013-03-24,Andrea Brown,20,83,Nathan Matthews,28,172
+299,9,Kelly Clark,248,283,71,141,131,42,85,Melissa Arias,2010-11-20,Tracy Davis,62,9,Kristin Woods,108,224
+300,12,Matthew Hart,40,73,125,77,39,76,87,David Weaver,2003-01-24,Stacy Cooper,4,154,Melody Jones,81,21
+301,35,Melissa Davidson,70,29,55,28,19,4,61,Maria Berger,1996-11-14,Amanda Burke DDS,40,13,Susan Schmidt,282,51
+302,152,Kimberly Chandler,78,165,192,120,62,60,10,Haley Jones,2007-07-14,Christopher Smith,117,25,Nancy Mathews,118,145
+303,71,Christopher Smith,21,84,9,59,61,31,8,Shawn Armstrong Jr.,2000-09-25,Patricia Cline,72,64,Bobby Rivera,13,45
+304,30,Diana Obrien,163,349,179,22,30,265,70,Anne Savage,2013-09-18,Michael Davis,12,25,James Gutierrez,31,29
+305,118,Amanda Owens,115,13,152,97,55,137,137,Samantha Hubbard,1980-11-26,William Leonard,199,46,Steven Valdez,79,21
+306,70,Hannah Rivas MD,66,7,92,122,39,44,6,Victoria Fields,1999-05-07,Tina Hampton,97,67,Joshua Harrison,77,46
+307,127,Katherine Thompson,135,126,173,145,36,128,131,Denise Stewart,2012-06-13,Jason Acevedo,118,41,Sabrina Todd,25,143
+308,58,George Juarez,147,17,166,7,11,107,91,Robert Garcia,2012-03-14,John Bright,179,96,Alisha Hart,36,82
+309,11,Michael Evans,33,96,126,186,96,93,102,Kiara Bradley,1988-01-16,Peter Russell,263,94,Krista Smith,150,265
+310,214,Amanda Woods,36,94,153,145,24,33,182,Patricia Anderson,1993-03-21,Michael Hardy,120,99,Melissa Weaver,33,52
+311,44,Logan Henderson,118,37,92,39,77,63,11,Devin Macdonald,1997-06-30,Michelle Gutierrez,13,139,Dawn Ortiz,10,90
+312,25,Cheryl Patton,222,112,177,78,37,24,30,Haley Vaughn,2003-09-22,Andrew Brock,50,102,Anthony Vance,66,12
+313,25,Tanya Glass,37,29,47,12,54,4,133,Angela Stewart,1976-05-01,Johnny David,113,106,Jerry Perez,32,104
+314,22,Robin Dunn,44,15,31,43,135,17,92,Yvonne Schmidt,1982-12-08,Sheryl Gill,57,93,William Stewart,42,15
+315,294,Jennifer Evans,40,124,51,213,47,70,33,Denise Evans,2017-11-16,Emily Rodriguez,100,21,Tammy Martin,186,14
+316,196,Jennifer Hayes,22,121,71,80,19,91,293,Andrew Howard,2003-08-28,Kristina Williamson,22,107,Michael Garcia,74,154
+317,104,Jody Gallegos,12,100,87,115,25,186,57,Craig Wilson,2006-02-24,Mrs. Angela Smith,18,44,Cindy Brock,100,127
+318,91,Suzanne Roberson,146,35,44,71,29,37,56,Samantha Branch,2002-09-25,Frank Gillespie,44,78,Scott White,32,105
+319,63,Patrick Marquez,116,40,37,125,78,5,3,Troy Miller,1984-04-05,Ann Taylor,8,121,Susan Reed,24,83
+320,13,Thomas Brown,32,125,43,25,5,86,17,Aaron King,2010-10-27,Gwendolyn Smith,170,9,Nicole Smith,146,152
+321,31,Tracey Michael,45,30,0,65,181,151,52,James Fernandez,2005-05-22,Dwayne Ramirez,64,27,Amber Rasmussen,110,119
+322,44,Lauren Smith DVM,2,15,142,25,86,86,31,Amanda Serrano,2006-12-16,Jared Bright,190,163,Veronica Watson,162,21
+323,86,Ann Johnson,55,30,5,160,4,58,140,Charles Chavez,1994-04-29,Heather Williams,117,68,Amy Reyes,77,20
+324,53,Gilbert Moore,84,118,160,12,25,68,109,Jennifer Sanders,2012-11-30,Kelly Manning,41,33,Jorge Williams,22,42
+325,81,Derek Brown,16,294,150,23,74,103,118,Christine Jones,2017-10-25,Wendy Adams,27,73,Angela Mendoza,113,191
+326,152,Michael Allen,15,5,14,171,78,92,82,Roy Mitchell,2010-08-23,Mary Nguyen,31,219,Andrea Davis,248,151
+327,16,Jacqueline Miller,60,126,7,61,47,109,112,Kimberly Potts,2009-06-21,Anthony Mcdowell,57,157,Matthew Stevenson,19,87
+328,43,Peter Russell,57,101,142,87,27,24,93,Jane Gray,1985-12-31,Joshua Cook,89,13,Juan Wallace,85,29
+329,79,Julian Bailey,60,5,60,93,85,59,106,Jerry Bates,2008-11-16,Lauren Mosley,128,21,Paul Freeman,36,140
+330,83,Jennifer Whitaker MD,33,71,148,26,13,58,46,Taylor Robinson,2012-04-22,Brian Larsen,122,157,Nancy Lambert,26,111
+331,11,Brian Brown,23,59,124,78,131,23,73,Tyler Hill,1976-08-07,Dr. Jason Terry,10,167,Wesley Rice,73,151
+332,68,Danielle Johnson,21,72,20,21,118,79,56,Nicholas Vasquez,1974-10-25,William Jordan,16,152,Tracey Edwards,18,100
+333,2,Marcus Lee,73,270,40,49,109,56,81,Katie Hall,1981-08-01,Rhonda Watson,3,2,Lucas Taylor,192,94
+334,100,Katherine Roberts,85,97,43,11,20,98,61,Rachel Gomez,1973-04-17,Ashley Calhoun,170,30,Shaun Schneider,34,0
+335,50,Jeremy Parker,33,66,119,134,35,66,114,Jody Smith,2005-09-13,Debra Bennett,110,61,Patrick Murray,6,17
+336,40,Savannah Blair,299,43,21,142,54,0,23,Wendy Thornton,2003-08-27,Danielle Hensley,140,105,Mary Bell,205,17
+337,57,Victor Floyd,99,57,114,115,58,54,263,Darryl Lopez,1987-10-05,Gloria Barnes,22,154,Nicholas Anderson,83,147
+338,93,Malik Moore,134,107,76,98,57,74,65,James Schroeder,1985-03-14,James Harris,78,19,Philip Lloyd,236,84
+339,95,James Jones,18,163,93,141,1,2,53,Matthew Johnson,1996-02-21,Adriana Bush,237,107,Elizabeth Gardner,60,80
+340,11,Danielle Burton MD,105,139,5,155,64,89,58,Paul Scott,2014-08-18,Christine Dillon,158,29,Leslie Prince,177,271
+341,59,Arthur Stevens,47,148,74,91,30,40,54,Steven Padilla,2016-01-31,Christine Mcdonald,75,19,William Short,125,131
+342,5,Pamela Rice,65,5,112,183,16,37,71,Shane Moses,1992-05-02,Jennifer Carr,45,5,Judy Jenkins,40,73
+343,162,Peter Allen,165,23,111,35,88,17,59,Anna Bishop,1983-07-07,Mary Miles,45,77,Dr. Thomas Irwin,104,255
+344,245,Michael Casey,58,9,2,28,74,151,62,Jennifer Wagner,1994-08-09,Julie Rodriguez,117,154,Daniel Allen,228,47
+345,57,Felicia Brown,80,22,46,81,18,166,49,Melanie Romero,1991-09-29,Victor Murphy,146,38,Megan Austin,152,102
+346,80,Marcus Boyd,83,76,164,119,53,8,33,Yvette Cruz,2003-01-09,Samantha Hall,125,52,Andrea Gibson,2,116
+347,156,Charles Mcclure,6,82,128,130,51,303,115,Joseph Garcia,2013-09-02,Ryan Schwartz,9,133,James Mitchell,189,9
+348,190,Shelley Garcia,38,1,46,49,16,140,76,Mary Brooks,2018-08-30,Michael Jackson,114,33,James Duffy,265,6
+349,44,Angela Lamb,79,35,28,155,15,26,39,James Fischer,2007-10-09,Michelle Ross,130,82,Lisa Mathews,85,102
+350,103,Victoria Velasquez,35,94,173,2,135,128,18,Eric Miller,2005-10-10,Mr. Jeff Taylor,22,27,Dennis Mcdaniel,30,21
+351,203,Michelle Ferrell,126,174,53,37,16,135,98,Lauren Smith,2008-09-26,Mike Smith,81,4,Jordan Edwards,59,1
+352,42,Michael Walsh,7,31,72,151,59,146,12,Cynthia Gilbert,2014-09-16,Marcus Weber,48,22,Michael Ramsey,19,50
+353,73,Devin Miller,171,48,7,28,76,91,143,Morgan Coleman,1989-03-29,Philip Mcconnell,22,88,Scott White,64,3
+354,90,John Rush,45,4,87,50,124,93,66,John Brown,1984-09-04,Brian Jackson,64,66,Jessica Marks,66,70
+355,36,Jacob Rivera,72,1,21,112,91,143,11,Cheryl Smith,2011-08-08,John Gonzalez,185,137,Jeremy Edwards,25,16
+356,102,Heather Gibbs,64,166,80,44,105,138,79,Amy Foster,1981-07-24,Darrell Townsend,70,49,Emily Willis,16,37
+357,85,Ms. Mckenzie Sanders,78,100,183,104,34,229,23,Dr. James Callahan,2013-09-26,Abigail Wheeler,97,10,Debra Ortiz,34,138
+358,128,Cathy Lee,35,141,3,92,24,7,145,Michelle Porter,2011-06-17,Derek Smith,93,31,Anthony Lopez,66,58
+359,79,Jason Rodriguez,14,35,96,0,112,42,14,Brandon Koch,2011-10-14,Kevin Ortiz,253,39,Joan Hughes,213,185
+360,74,Catherine Harris,213,176,108,36,54,106,115,Paula Hughes,2008-01-30,Kristina Gross,114,40,Anita Ramirez,153,74
+361,113,Lorraine Calderon,197,97,4,34,57,79,187,Mary Peterson,1973-09-01,Bethany Perkins,148,262,Ashley Davila,47,207
+362,21,Charles Hernandez,37,20,75,217,92,33,187,Andrew Guzman,2016-12-16,Jeremy George,12,95,Eric Bennett,77,177
+363,26,James Cortez,17,28,127,130,57,77,24,Gregory Wise,2015-05-13,Christopher Armstrong,124,45,Jeremy Lewis,41,1
+364,38,Pamela Barry,39,77,18,21,12,56,7,Diane Baker,1991-01-23,Carlos Garrett,17,99,Brett Simmons,83,38
+365,136,Christopher Fernandez,72,239,73,4,102,4,103,Stacey Garcia,2004-10-26,Luis Williams,54,65,Daniel Johnson,71,5
+366,79,Christopher Cantu,87,10,143,4,47,184,3,Paul Johnson,1971-11-10,Stephen Adams,58,179,Elizabeth Barron,3,168
+367,173,Joshua Guerrero,97,39,49,168,22,14,130,Kaitlyn Nelson,1981-01-24,Daniel Brewer,94,30,Crystal Jones,66,194
+368,64,Charles Jones,101,15,18,32,41,50,33,Cindy Chavez,1988-11-02,Maria Day,54,12,Derrick Eaton,58,3
+369,51,Courtney Jones,38,73,22,58,108,35,21,Yvonne Bautista,2002-01-20,Sean Riley,35,5,Mark Good,58,38
+370,96,Allison Dennis,126,237,138,151,95,102,85,Ann Thompson,1995-10-08,Barry Allen,126,88,Robert Johnson,119,37
+371,2,Mitchell Armstrong,131,50,59,12,36,128,77,Corey Brown,1985-07-06,Mrs. Tina Sanders,53,61,John Roy,71,30
+372,107,Angela Todd,136,124,317,167,82,65,99,Jessica Davis,1980-03-03,Terri Richmond,270,62,Steve Christian,168,156
+373,176,Megan Olsen,128,15,19,74,122,74,168,William Pope,2018-10-21,David Garcia,83,23,Lisa Johnson,133,66
+374,142,Rebecca Perez,176,5,15,115,26,80,6,Lydia Mitchell,1985-08-07,Jamie Chang,61,84,Sean Brown,109,24
+375,68,Joseph Tucker,79,6,115,88,23,198,106,Michael Mclaughlin,2007-12-02,Bobby Moody,23,62,Jeffrey Hall,97,36
+376,90,Teresa Bradley,117,17,105,38,33,88,25,Shane Baker,1978-01-04,Leah Moore,96,62,Dr. Robert Haney,66,234
+377,82,Leslie Garrison,53,158,6,116,32,55,30,Crystal Lucas,2018-09-15,Matthew Potter,107,21,William Gray,105,50
+378,13,Brittany Case,188,115,29,7,85,43,72,Richard Walker,1978-08-14,Henry Smith,152,141,Lisa Ray MD,24,39
+379,55,Danielle Henderson,37,47,91,150,42,6,89,Laura Bowen,2010-03-04,Michael Aguilar,167,106,Kiara Christensen,98,259
+380,156,Jessica Martin,26,105,24,153,127,214,93,Natasha Sandoval,2005-08-13,William Evans,58,49,Kendra Davis DDS,30,84
+381,120,Katrina Williams,36,5,88,84,15,59,46,Angela Gallagher,2012-04-19,Michael Lee,17,149,Lori Peterson,15,237
+382,124,Jason Martin,149,170,131,210,155,29,6,Rachel Roberson,1996-04-27,Andrea Lee,189,69,Jill Ware,65,91
+383,22,Rebekah Cox,63,22,64,62,15,148,29,Lori Green,2013-04-12,Connie Mccarthy,32,4,Ashlee Smith,219,29
+384,115,Luis Noble,39,56,131,117,51,57,54,Savannah Brown,1973-07-14,John Thornton,109,236,David Jones,98,120
+385,292,Kenneth Moreno,187,93,3,179,12,60,172,Taylor Shelton,1995-05-28,Joseph Cochran,19,69,Jesse Williams,75,5
+386,53,Gloria Sosa,0,144,261,34,58,11,156,Raymond Rivera,1997-08-15,Ronald Brandt,57,90,Trevor Duffy,145,11
+387,83,Amy Williams,48,3,100,79,95,18,177,Matthew Jones,2000-12-21,Brandi Mendoza,129,178,Ryan Johnson,93,49
+388,24,Jasmine Wood,118,28,101,123,45,39,139,Joseph Lynch,1977-09-04,Edward Payne,90,53,Latoya Rios,78,47
+389,68,Jacob Smith,119,84,59,38,21,118,226,David Bennett,2016-07-31,Timothy Davis,75,69,Jenna Thompson,140,80
+390,91,Laura Campbell,115,57,40,77,90,62,31,Carlos Williams,2000-06-07,Diana Mann,93,56,Heather Welch,89,18
+391,103,Julia Reyes,126,42,35,191,103,55,184,Eric Woods,2012-01-23,Angela Robles,93,16,Harry Moore,113,148
+392,21,Ashley Hernandez,152,88,61,206,29,47,62,Amber Singh,1981-02-10,Logan Saunders,235,26,Jason Johnson,140,66
+393,98,Tina Lane,102,67,72,4,1,55,90,Gloria Carrillo,1987-11-16,Dr. Sheila Robles,87,16,Christian Murray,26,2
+394,48,Michelle Carr,29,16,107,37,37,128,198,Richard Shea,2012-11-12,Brendan Donovan,96,18,John Davis,128,7
+395,52,Janice Williams,113,24,54,13,237,154,56,Robert Rose,1985-02-06,Stephen Frederick,155,197,Nicole Mathews,66,17
+396,31,Joseph Jones,27,125,108,34,139,54,16,Julie Robertson,2003-08-18,Ashley Moore,57,27,Mary Campbell,115,102
+397,35,Greg Taylor,64,37,21,89,39,54,99,Tyler Smith,2007-03-15,Sean Stone,27,71,Phillip Burgess PhD,40,71
+398,190,Ashlee Duffy,28,104,62,113,13,6,31,Andrew Williams,1976-07-04,Cheryl Jones,46,108,Elizabeth Olsen,5,76
+399,121,Ronnie Martin,45,200,104,189,62,23,52,Mrs. Martha Jackson,1998-10-03,Rachel Beck,150,25,Brandon Gonzalez,154,180
+400,41,Joann Wallace,28,107,18,96,2,14,91,Anne Rodriguez,1987-09-21,Nicole Trujillo,80,81,Logan Drake,4,114
+401,7,Michelle Blackburn,268,121,77,119,80,127,89,Denise Clark,1996-03-04,Tina Singh DVM,186,40,Jamie Banks,43,70
+402,5,Valerie Garrett,19,91,119,103,179,15,24,Crystal Pineda,2003-09-24,Jeffrey Mcfarland,1,150,Vincent Alexander,30,50
+403,41,Anthony Cooper,50,91,50,14,72,82,161,Hannah Byrd,1980-04-26,Lindsay Hines MD,163,15,Adam Ward,14,71
+404,20,Anthony Valdez,7,108,52,47,4,162,0,Ashlee Gardner,2017-06-10,Angelica Wilson,94,81,Richard Garcia,103,140
+405,19,Jeffrey Mueller,88,5,42,168,142,90,142,Dawn Dean,2004-08-01,Kevin Mullins,44,112,Nicole Bell,23,95
+406,81,Erica Davis,9,8,98,130,44,55,15,Craig Wright,1978-04-01,Cindy Zamora,191,46,Kimberly Cabrera,180,115
+407,128,Lisa Ramirez,17,164,2,29,20,172,97,Cody Rodriguez,1990-03-23,Scott Dickerson,68,2,Larry Anderson,136,70
+408,116,Brian Joseph,5,88,90,43,43,20,54,Dr. Rachel Edwards,2001-10-21,Joel Fleming,73,139,Stephen Braun,60,155
+409,29,Annette Nixon,4,121,7,80,31,75,107,Carol Garcia,2000-12-06,Mary Cruz,19,6,Mr. James Johnson,56,85
+410,26,Leslie Brown,124,30,216,37,172,46,156,John Collins,2016-09-15,Alyssa Dillon,36,30,Sarah Tran,81,79
+411,161,John Ho,63,36,150,9,160,110,127,Jennifer Mason,1976-06-26,Mary Garcia,321,68,David Daniel,37,80
+412,77,Jimmy Butler,13,22,19,183,40,36,15,Michael Gutierrez,1973-09-21,Cody Petersen,58,132,Matthew Perez,291,44
+413,88,Nancy Adams,43,93,116,7,62,25,96,Austin Clark,1979-07-13,Brandon Allen,59,128,Ricky Pennington,7,15
+414,69,Tyrone Boone,67,74,18,10,12,104,15,Amber Obrien,2003-10-05,Amber Floyd,28,39,Kevin Gallegos,17,23
+415,7,Amy Bowen,17,47,49,20,361,41,48,Mr. Derek Rollins III,2007-10-11,Frederick Ayala,91,264,Samantha Erickson,4,76
+416,218,Daniel Brown,201,60,17,63,138,0,139,Regina Goodman,1973-05-14,Joy Moran,105,48,David Clark,54,155
+417,91,Cody Phillips,204,161,14,54,50,61,83,Allison Cohen,2000-01-31,Kathryn Parks,83,138,Deborah Gillespie,119,165
+418,98,Jose Green,73,8,122,20,214,16,60,Julian Knight,2009-10-05,Jim Allen,65,113,Lee Thomas,117,98
+419,48,Mrs. Courtney Rodriguez,89,118,36,26,141,55,100,Roy Drake,1995-10-29,Jeanne Williams,34,106,Lisa Snyder,33,167
+420,92,William Davidson,82,26,141,111,41,105,20,Melanie Long,1975-11-21,Michael Lutz,320,10,Christopher Woodward,90,124
+421,37,Sydney Malone,184,57,124,105,18,64,165,Morgan Stevens,2019-09-09,Ashley Gonzalez,78,100,Daniel Melendez,293,73
+422,45,Janet Salas,78,188,5,67,39,2,58,Lisa Rogers,2005-02-28,Jessica Weaver,59,47,Kimberly Waters,96,96
+423,35,Austin Smith,64,31,118,263,196,92,141,David Le,1995-03-09,Jessica Hebert,136,5,David Stark,173,116
+424,3,Charles Sims,72,136,173,89,6,95,3,Casey Morgan,1984-11-16,Sarah Taylor,11,100,Jacqueline Marks,51,53
+425,35,Jackson Cox,57,42,161,34,241,213,114,Shawn Perez,1990-06-14,Benjamin Boyle DDS,87,8,Julia Ewing,0,5
+426,61,John Wolfe,117,75,69,38,41,74,152,Jamie Estrada,1992-07-01,Alicia Cox,141,45,Cynthia Ortiz,17,4
+427,84,Sierra Johnson,25,115,160,23,93,149,28,Diane Barnes,2010-08-02,Edward Romero,26,55,Mary Sexton,142,70
+428,47,Angel Riley,13,77,31,10,92,104,36,Jeffrey Mcbride,1990-04-16,Dr. Michael Morris,39,146,Katherine Mayo,3,139
+429,1,Joan Garcia,154,84,5,89,73,59,98,Eric Williams,2017-11-21,Deborah Bennett,45,13,Linda Simpson,212,47
+430,91,Carrie Dunn,64,89,77,28,3,76,114,Karen Lowery,1989-12-17,Melissa Bradford,103,146,Ann Walsh,151,5
+431,58,Gabrielle Smith,198,77,131,124,93,2,76,Chad Kim,1984-08-11,Gabrielle Miller,98,0,Charles Soto,45,96
+432,12,Phyllis Wilson,13,87,91,16,32,7,6,Sean Kaiser,1988-01-11,Gregory Allen,65,144,Louis Cardenas,19,29
+433,46,Mrs. Pamela Schwartz DDS,24,67,79,85,46,42,55,Patricia Perez,2014-01-03,Penny Hendricks,71,149,Wesley Johnson,43,111
+434,138,Jonathan Powell,13,91,45,119,97,125,93,Robert Black,1981-03-22,Michael Cohen,65,77,Meredith Aguirre,101,94
+435,84,Kevin Schultz,56,101,113,122,79,155,3,Grace Grant,2010-07-25,Mary Franklin,160,143,Roy Terry,85,59
+436,23,Michael Chapman,110,123,171,77,21,97,32,Brandon Hill,1989-01-12,Michael Wise MD,97,37,Tracey Henderson,173,177
+437,37,Diane Alvarez,52,22,47,123,129,31,67,Joseph Macias,2006-12-13,Kelly Hayes,256,24,Jessica Mcdonald,208,68
+438,19,Christian Lee,7,74,42,38,117,197,32,Penny Brown,1996-02-14,Lucas Olson,2,7,Kimberly Clark,97,51
+439,34,Joe Harvey,16,119,111,11,30,46,68,Allison Ramirez,2000-09-03,Courtney Maldonado,55,172,Kaitlin Stone,111,106
+440,107,Brian Davenport,67,142,22,93,265,7,39,David Colon,2015-12-29,Eric Smith,9,108,William Dominguez,197,79
+441,43,Jennifer Schultz,80,100,18,137,63,39,47,Carl Howard,1984-12-16,Kenneth Morgan,10,106,Barbara Hernandez DVM,15,171
+442,60,Caroline Cruz,91,92,69,140,28,33,73,John Holden,1992-04-15,Jennifer Gilbert,135,6,Amy Johnson,51,15
+443,33,Lisa Holmes,32,102,77,94,22,11,18,Natalie Hernandez,1995-02-26,Michele Baird,19,98,Chad Clements,53,40
+444,34,Dennis Stephenson,60,71,33,199,23,94,168,Steven Heath,1990-10-28,Catherine Mendez,80,31,Kevin Lynch,203,119
+445,55,Anthony Wood,103,57,242,20,47,4,91,Joshua Williams,2017-05-22,Sarah Dean MD,148,150,Calvin Swanson,50,26
+446,60,Karen Stein,13,43,110,127,32,161,19,Derrick Lyons,1993-04-27,Brooke Tucker,65,1,Cheryl Guzman,184,326
+447,88,John Doyle,125,129,116,60,5,33,34,Corey Shannon,2019-08-14,Judith Powell,57,65,Nancy King,117,55
+448,38,Rick Saunders,70,99,40,2,33,60,154,Tyler Thompson,1994-09-19,Walter Weaver,25,32,Amanda Clark,118,117
+449,9,Amanda Willis,21,95,35,46,26,163,0,Robin Hanson,2015-06-10,Michael Faulkner,57,108,Kimberly Williams,119,58
+450,18,Wayne Murphy,69,134,124,282,20,36,6,Joseph Jackson,1998-11-26,Jose Gonzalez,32,81,Chase Frey,22,37
+451,240,Joshua Campbell,105,71,160,98,162,62,6,Denise Keller,1983-04-09,Brent Mitchell,128,51,Thomas Lambert,162,5
+452,59,Alex Kline,68,17,2,0,9,79,4,Elizabeth Ruiz,1972-05-16,Michael Williams,53,38,Lauren Hanson,16,259
+453,19,Lisa Lewis,27,240,56,70,99,119,77,Melissa Morrison,2002-03-31,Sarah Miller,260,77,John Johnson,166,10
+454,10,Alejandro Reed,10,3,25,89,190,89,0,Kevin Hendrix,1977-05-19,Troy Murray,260,16,Ricardo Fleming,173,28
+455,53,Andrew Sharp,99,31,51,135,41,156,75,Richard Lewis,1971-07-10,Angela Blair,34,87,Jorge Hines,108,97
+456,125,Reginald Thompson,70,25,49,73,82,82,38,Patricia Smith,1974-09-26,Victoria Curtis,57,96,Jennifer Johnson,189,1
+457,6,Anthony Li,13,47,43,122,180,62,267,Jeffrey West,1998-03-09,Mark Friedman,56,112,Andrea Ochoa,57,37
+458,43,Helen Jones,14,15,17,95,105,44,113,Ryan Wood,1972-04-10,Deborah Wilson,44,46,Anthony Alexander,36,185
+459,99,John Hubbard,61,23,40,60,159,191,148,Allison Saunders,1973-03-27,Yvonne Morris,88,224,Jacob Melton,199,58
+460,3,Brandon Lopez,57,216,88,223,122,57,127,Mary Duffy,1985-02-18,Elizabeth Hall,74,80,Jennifer Huff,93,48
+461,5,Angelica Cherry,116,4,10,73,174,72,13,Ruth Williams,2008-10-24,Hannah Jones,60,67,Lori Douglas,26,62
+462,3,Christine Finley,151,94,0,236,22,62,23,Michele Rice,2008-05-10,Adam Thomas,101,52,Barbara Watkins,0,81
+463,89,Jordan Baxter,13,62,3,38,61,78,32,Anne Anderson,1976-09-08,Mark Pena,82,76,Vincent Ballard,21,120
+464,242,John Rhodes,140,98,113,131,121,89,84,Nicholas Hampton,1975-09-22,John Mckenzie,33,81,Jason Anderson,31,39
+465,169,Carmen Figueroa,170,126,149,10,13,94,57,Teresa Davidson,1981-06-12,Jeffrey Rowland,177,109,Matthew Peters,125,15
+466,73,Nathaniel Cherry,13,25,79,55,169,28,173,Kevin Oconnell,2016-03-12,Lindsey Lee,32,6,Crystal Michael,19,78
+467,32,Heather Williams,66,15,163,13,213,112,38,Karen Ali,2003-01-19,Donna Stevens,235,48,Steven Rose,63,111
+468,139,Samuel Campbell,134,32,44,3,83,14,142,Heather Young,2002-08-12,Linda Christian,60,32,Lori Lam,216,82
+469,81,Connie Carney DVM,60,21,104,119,52,22,26,Brittany Shepherd,1977-01-19,Larry Roy,138,39,Kevin Williams,171,10
+470,32,Christopher Williams,4,45,64,8,1,153,59,Brian Daniels,1973-05-06,Jennifer Graham,5,15,Julie Long,40,34
+471,21,Suzanne Pearson,16,19,10,85,6,216,50,Gregory Saunders,1985-10-12,Russell Wyatt,114,8,Toni Ellis,3,15
+472,118,Jennifer Myers,105,17,11,59,99,25,59,Jeremy Kelly,1977-01-12,Carol Richardson,19,143,Cynthia Wolfe,119,126
+473,3,Paul Payne,14,115,17,108,221,121,29,Walter Phillips,1977-08-22,Ashley Hubbard,42,78,Christie Green,150,81
+474,278,Joseph Lawson,78,118,106,106,61,76,10,Leslie Carter,2014-09-21,George Henry,24,0,Blake Ruiz,1,7
+475,26,Alexis Long,88,85,26,68,180,36,32,Jessica Wells,2019-05-24,Elizabeth Diaz,19,88,Jeffrey Gutierrez,49,100
+476,91,Michael Powell,78,66,23,28,27,118,146,Rodney Johnson,1985-01-18,Michael Mullins,277,38,Caleb Matthews,5,28
+477,1,Mr. David Jackson,55,12,52,21,158,204,11,James Thomas,2002-06-29,Stacey Yates,122,249,Jerry Simpson,6,177
+478,115,Robin Perez,75,163,24,2,18,109,68,Dr. Andrea Perry,2012-10-30,Michelle Moore,119,114,Shane Herrera,7,38
+479,80,Julie Stafford,11,16,130,45,18,95,63,Deborah King,2014-11-05,Barbara Medina,82,103,Mr. Benjamin Garcia MD,198,46
+480,120,Bryan Bell,181,45,76,14,34,52,28,Jill Anderson,1993-04-08,Matthew Santiago,75,28,Ricardo Yates,28,47
+481,86,Christina Hernandez,97,18,113,59,201,88,192,Lisa Miller,1981-01-04,Russell Gardner,108,55,Matthew Day,71,50
+482,53,Luis Lucas,84,74,97,121,144,156,2,Suzanne Rodriguez,2010-08-30,William Butler,72,75,Amanda Keller,81,121
+483,39,James Simpson,30,17,162,0,65,60,70,Diane Jacobson,1979-09-29,Dylan Scott,136,73,Lisa Flowers,99,9
+484,9,Melissa Jones,28,91,0,150,22,93,48,Christine Patel,1977-05-12,Paul Smith,47,204,Jordan Walker,1,82
+485,132,James Cook,149,186,91,108,42,79,90,Scott Collins,2018-11-17,Carol Lloyd,92,8,Caitlin Santos,59,116
+486,42,Derek Mckenzie,170,5,51,120,93,118,82,Alexis Deleon,1979-11-09,Anne Olson,34,50,Jordan Blair,25,116
+487,99,Ross Thompson,236,10,132,236,76,57,51,Paula Simmons,1992-11-07,Rodney Jones,50,51,Nicole Munoz,181,27
+488,183,Jennifer Patrick,175,83,86,94,30,34,20,Ronald Hawkins,2003-03-11,Kelly Johnson DDS,100,3,Taylor Lawrence,31,60
+489,45,Madison Villegas,50,42,3,40,105,0,22,Theresa Henderson,1978-03-30,Kelsey Haynes,52,29,Jennifer Guerra,142,114
+490,307,Michelle Galvan,113,26,173,156,104,79,33,Joseph Taylor,2006-10-19,Brianna Hoffman,51,37,Sonya Rodriguez,96,98
+491,253,Victoria Roth,90,23,10,84,49,1,186,Jacob Mccoy,1998-01-09,Denise Boyd,227,102,Carolyn Owens,10,20
+492,108,Brianna Blackwell,66,4,83,37,52,175,186,Mrs. Haley Smith,2001-03-10,Nicholas Woods,33,2,Kristin Foster,29,1
+493,18,Stephen Brown,104,43,18,95,23,43,117,Nicole Wells,1970-02-02,Austin Rocha,34,67,Debra Jones,48,35
+494,29,Sherry Henry,82,38,8,53,65,5,34,Thomas Trevino,2013-04-02,Hunter Woods,51,90,Sarah Alexander,59,134
+495,185,John York,123,76,93,31,84,40,47,Jeremy Grant,2016-12-06,Travis Robinson,35,14,Jamie Harrison,88,112
+496,69,Donna Griffin,6,28,34,25,25,5,26,Mark Hill,1974-04-23,Lisa Hunt,94,140,Michael Hurley,54,123
+497,34,Lisa Rodriguez,197,40,102,41,67,180,156,Sandra Callahan,1973-08-11,Katherine Shaw,3,267,Erica Scott,33,75
+498,26,Elizabeth Figueroa,121,37,14,6,71,148,24,Diane Fisher,1971-10-31,Carol Reeves,39,115,Dawn Silva,55,73
+499,142,Anna Burton,11,5,90,0,87,8,68,Steven Cobb,1973-09-09,Timothy Wright,62,112,Barbara Tanner,133,215
+500,19,Joseph Jackson,1,282,10,87,84,57,68,Shannon Shaffer,1972-06-06,Melissa Rogers,127,8,Peter Ali,36,53
+501,3,Amber Curtis,25,64,75,123,4,64,72,Theresa Rodriguez,1981-03-08,Michelle Fitzpatrick,69,106,Aaron Bonilla,166,82
+502,49,Jill Moore,73,32,56,139,258,21,19,Michael Ryan,1994-07-19,Megan Chavez,18,210,Ian Marshall,6,24
+503,16,Julie Greer,30,45,108,47,30,63,115,Phillip Mcdonald,1975-09-10,Raven Cunningham,54,3,Charles Lopez,60,46
+504,24,Alex Taylor,117,53,46,18,73,123,48,Jamie Phillips,1971-07-22,Cindy Mckee,120,60,Ryan Edwards,20,101
+505,116,William Wilson,111,256,170,15,105,117,144,Cassie Rodriguez,2014-03-29,Jocelyn Castillo,62,26,Michael Esparza,5,62
+506,100,Cathy Richmond,42,77,117,39,18,67,30,Joseph Boyd,1999-10-11,Andrew Sampson,238,91,Keith Herman,105,20
+507,28,Rebecca Johnson,174,89,67,64,38,100,303,Tamara Young,1993-12-18,Yolanda Nelson,111,57,Edward Jones,63,76
+508,3,Dr. Gerald Clark PhD,109,50,93,36,172,55,88,Julian Black,2000-12-02,Christopher Taylor,65,41,Michelle Johnson,48,47
+509,35,Joshua Crawford PhD,66,207,63,154,81,34,166,Wesley Williamson,1970-07-15,Kenneth Mccormick,15,38,Diana Sims,199,30
+510,89,Nancy Stone,9,231,142,29,75,10,162,Sarah Ellis,2008-07-11,Audrey Vasquez,68,92,Robert Powell,86,46
+511,28,Jason Miller,131,33,18,19,43,52,57,Julie Jones,1996-01-13,Teresa Nguyen,102,49,Edward Wright,7,63
+512,95,Kenneth Burns,132,103,24,41,190,191,116,Joseph Cochran,1974-05-21,Susan Terry,23,116,Kayla Martin,203,118
+513,67,Wendy Melton,35,135,117,211,67,147,26,Janet Smith,1993-08-14,Larry Taylor,13,94,Bryan Castro,81,47
+514,211,Chad Roberts,29,130,131,8,23,93,142,James Lopez,1999-06-26,Jacqueline Wallace,227,36,Monique Lee,161,81
+515,86,Jason Padilla,215,219,23,70,88,121,10,Robert Roberts,2008-06-11,Anthony Hunter,2,50,Kevin Rogers,7,84
+516,0,Adam Buck,86,70,60,46,101,73,0,Mary Contreras,1983-02-04,Elizabeth Lamb,45,50,Victoria Gentry,85,17
+517,90,Jodi Hardy,50,53,142,252,56,76,85,Michael Phillips,2010-01-28,Jillian Love,94,91,Malik Sanchez,63,82
+518,189,Kevin Watts,29,15,118,123,68,54,260,Elizabeth Cox,1993-04-20,Samantha Shah,137,19,Steven Barry,112,65
+519,263,Linda Obrien,184,73,147,86,118,16,7,Nicholas Chapman,2014-12-20,James Garza,76,43,Stephanie Mclean,14,36
+520,157,Kelly Conner,81,33,75,78,6,49,28,Jack Flores,2004-07-09,Robert Michael,44,118,Mrs. Caitlin Reeves,32,64
+521,77,Arthur Gibson PhD,76,64,138,83,87,89,21,Cole Hayes,1981-06-09,Claudia Santiago,7,21,Jacob Kelly,62,225
+522,63,Brooke Lucas,126,166,38,53,25,166,120,Brian Johnson,2009-12-20,Savannah Powell,77,2,Alison Meyer,92,46
+523,79,Karen Griffith,119,109,30,50,38,45,118,Jay Bright,2019-02-04,Gabriella Johnson,3,83,Willie Newton DDS,18,193
+524,95,Christopher Patterson,178,49,60,147,54,14,93,Arthur Oconnell,2019-01-02,Christopher Matthews,55,67,Richard Freeman,25,91
+525,117,Dr. Gary Brown,11,46,142,129,16,88,73,Adam Duke,2005-04-23,Pam Meyer,61,202,Stephen Miller III,197,117
+526,104,Tiffany Cook,143,84,153,158,99,63,79,Sandra Klein,1994-04-15,Paul Hayes,18,0,Allen Rogers,91,150
+527,49,James Olson,17,61,5,2,146,143,2,Trevor Turner,1982-03-30,Bethany Johnson,56,56,Amy Barker,67,37
+528,163,Nicole Vasquez,25,45,8,132,104,24,54,Peggy Burns,1978-07-13,Jon Gomez,107,129,Cindy Walker,17,74
+529,169,Heather Barry,41,58,16,88,118,105,84,Paul Martinez,1988-12-18,Richard Huber,179,223,Jennifer Barnes,108,71
+530,84,Donna Mosley,48,98,33,152,26,0,33,David Sanchez,1992-08-12,Michelle Brewer,219,58,Mr. Kevin Mckee MD,66,178
+531,65,Don Hughes,15,42,29,208,37,113,176,Rachel Peterson,1981-07-10,Julia Barrera,145,69,Todd Villarreal,60,109
+532,72,Amy Allen,159,173,75,69,37,51,173,Deborah Taylor,2011-04-29,Alexa Ryan,16,19,Bruce David,25,102
+533,36,Catherine Whitaker,140,65,25,117,27,16,66,Ana Garcia,1975-02-16,David Li,50,8,Dennis Alexander,195,68
+534,2,Jacob Harper,203,39,109,12,84,65,157,Kaitlyn Howard,1976-09-07,Angela Vincent,100,26,Brian Raymond,140,2
+535,72,Mr. Patrick Gonzalez MD,6,116,103,35,130,95,136,George Long,1975-04-16,Dr. David Tran DDS,85,108,Drew Weiss,207,26
+536,27,Stephen Woodard,33,97,86,157,21,3,109,Anne Lam,2014-08-18,Carlos Garcia,38,83,Cody Mosley,74,45
+537,32,Steven Reynolds,4,72,93,13,85,230,85,Emily Peters,1972-06-22,Tyler Garcia,39,83,Melissa Clark,86,124
+538,50,Raymond Greer,14,35,68,145,111,48,66,Ms. Katherine Walker,1992-08-13,Joy Sloan,91,47,Jamie Gonzalez,132,84
+539,107,Alison Burton,87,82,83,95,91,26,184,Jonathan Turner,1999-11-10,Jose Sanchez,4,214,Christopher Scott,15,183
+540,142,Michael Henderson,132,138,108,93,51,42,162,Rebecca Barnes,1982-02-11,Jeffrey Vazquez,58,92,Tiffany Collins,45,43
+541,79,Christopher Wright,4,128,4,31,143,65,39,Melissa White,1975-01-05,Jamie Herring,46,230,Michael Griffin,92,27
+542,27,Kaitlin Hardin,66,107,134,51,150,27,42,Donald Berger,1980-05-20,Frank Roberts,70,52,Patrick George,160,121
+543,18,Crystal Gonzalez,21,135,67,165,118,179,37,Christopher Fletcher,2017-06-28,Charles Howard,31,139,Jamie Nichols,83,66
+544,54,Destiny Ford,30,19,33,93,282,102,56,Jessica Yang,2017-04-19,Anne Nguyen,155,131,Mr. John Jackson DDS,112,20
+545,51,Rebecca Hardy,55,149,174,125,107,44,76,Sherry Andrews,1970-02-05,Brandon Scott,114,16,Matthew Johnson,19,136
+546,113,Susan Nguyen,83,38,149,143,23,127,90,Lisa Murray,1978-06-06,Elizabeth Anderson,57,30,Sandra Harris,33,59
+547,100,Ian Johns,63,47,23,10,103,28,113,Kara Bass,2019-05-17,Brian Watts,136,31,Angela Reese,79,6
+548,96,Nicholas Cooper,127,39,89,13,4,196,111,Kyle Wade,1973-01-24,April Freeman,46,9,Amy Stewart,56,87
+549,73,Gregory Peterson,220,90,156,100,16,13,31,Jerome Moore,2006-08-25,Amanda Kline,6,81,Brian Paul,45,13
+550,39,Greg Clark,71,29,0,79,77,48,172,Scott Moore,1992-03-30,Adam Berg,77,57,Jermaine Nelson,127,26
+551,109,Lisa Perez,63,17,65,63,88,76,136,Ashley Walsh,1999-09-27,Phyllis Howe,18,52,Emily Rivera,36,139
+552,7,Christopher Bowman,81,113,51,295,78,4,34,Amber Aguilar,1992-07-30,Bridget Brooks,78,9,Wyatt Brown,0,46
+553,128,Cristian Wilson,61,54,151,125,45,56,105,James Green,1985-06-12,Lisa Walton,79,10,Heather Burke,20,52
+554,26,James Erickson,95,26,74,38,20,58,91,Ashley Mejia,2015-11-02,Sharon Ramsey,112,83,Blake Brady,36,36
+555,62,Richard Mcclain,113,33,14,60,22,62,4,Michael Howard,1974-04-10,Brandon Vega,93,51,Matthew Noble,172,42
+556,67,John Jefferson,98,109,31,105,70,30,65,Dillon Yang,1988-04-04,Carl Salas,127,90,Mary Colon,43,71
+557,66,Heather Sawyer,172,70,166,30,8,8,16,Anita Hunt,2007-12-29,Arthur Martinez,22,7,William Martin,21,66
+558,32,Elizabeth Little,31,22,79,28,54,132,56,Ray Stone,1984-05-21,Julia Moore,43,164,Allen Washington,29,38
+559,103,Alexis Allen,161,1,34,94,106,18,5,Joseph Gardner,2014-09-04,Blake Matthews,42,55,Sandra Johnson,90,8
+560,62,Christopher Brown,27,7,56,125,152,54,59,Brandon Martin,1991-05-13,Holly Pittman MD,1,1,Lori Leblanc,33,92
+561,132,Haley Lawrence,66,4,76,20,5,186,96,Eric Smith,2017-04-22,Susan Martin,38,97,Jared Davis,32,48
+562,48,Brandon Cox,92,127,39,19,118,135,58,Travis Pham,1973-05-27,Sean Hernandez,72,151,Steven Young MD,99,10
+563,15,Amanda Lopez,102,28,41,48,72,88,66,Austin Patrick,2016-02-09,Alyssa Thomas,5,53,Caitlin Paul,56,36
+564,137,Christine Horne,31,35,23,171,69,30,178,Colleen Dickerson,2004-02-10,Amanda Kemp,148,67,Antonio Mccoy,49,4
+565,10,Desiree White,32,150,91,207,12,102,89,Jennifer Williams,2016-02-14,Luke Rhodes,136,88,William Chavez,35,63
+566,41,Samuel Lee,282,10,98,91,31,91,185,Joshua Hill,1997-11-12,Jessica Alvarez,77,28,Melissa Davis,51,164
+567,88,Elizabeth Hess,219,134,224,182,49,94,197,Carla Stevens,2000-02-25,Sarah Rogers,156,20,Mr. Wesley Robertson Jr.,34,3
+568,1,Adam Hayden,43,32,6,124,10,141,117,Kathryn Levine,2007-02-11,Theodore Green,55,38,Billy Brown,98,159
+569,88,Phyllis Velazquez,30,19,16,68,16,142,49,Daniel Benitez,1992-06-21,Julie Benjamin,83,28,Kimberly Day,166,145
+570,22,Angela Hall,23,69,23,33,3,102,4,Richard Cowan,1983-05-08,Derek Rodriguez,92,77,Tommy Matthews,54,47
+571,161,Lisa Fitzgerald,101,135,84,12,122,93,43,Crystal Harris,1995-05-21,Jenna Alvarez,242,172,Jeffery Crane,48,122
+572,57,Thomas Mann,65,13,115,10,54,75,86,Andrea White,1972-04-23,Kelly Reed,80,72,Carrie Thomas,110,67
+573,102,Thomas Johnson,118,103,66,223,44,42,3,Daniel Romero,1988-10-28,Andrew Winters,27,60,Stephanie Zamora,77,166
+574,92,Donna Poole,3,6,9,22,4,137,70,Richard Rodriguez,2011-06-02,Kendra Olson,36,5,David Turner,17,65
+575,51,Stephanie Payne,2,63,284,29,52,88,66,Katelyn Santiago,2006-06-13,Jessica Bailey,93,29,Russell Lopez,34,52
+576,64,Michael King,19,197,14,52,114,139,5,Erin Fischer,1982-09-18,Victoria Jones,185,41,Michael Morales,9,45
+577,147,Lindsey Aguilar,125,24,26,31,13,39,221,Rhonda Lawson,2013-12-30,Patricia Rogers,80,90,Danielle Bennett,118,18
+578,156,Ryan Nguyen,74,29,23,2,95,9,141,Lisa Hanson,1977-11-25,Shawn Woods,19,88,Richard Martin,153,241
+579,116,Tracy Villanueva,20,66,23,8,175,21,70,Derrick Murray,1988-09-19,Ronald Brady,83,65,Theresa Rogers,147,74
+580,194,Dana Norton,257,28,62,21,75,86,15,Mary Acevedo,1976-04-28,Desiree Adams,81,7,Michelle Hardy,40,241
+581,43,Marcus Woods,166,1,92,38,109,87,74,Tracy Brown,1972-03-13,Ashley Fernandez,122,47,Steven Perez,51,195
+582,117,Anthony Green,55,78,34,39,66,109,97,Caleb Murray,1989-04-30,Tamara Daniels,196,48,Stephen Johnston,27,53
+583,198,Scott Alexander,48,11,69,196,131,43,62,Yesenia Moore,2010-09-04,Abigail Reed,11,52,Austin Contreras,3,14
+584,49,Daniel Marshall,70,45,261,53,78,95,77,Jim Smith,2003-01-15,Bryan Holloway,121,26,Brian Wheeler,13,76
+585,77,Cassie Williams,6,83,142,34,133,3,53,Justin Conner,1972-01-30,Scott Perez,87,113,Amanda Evans,208,81
+586,0,David Reilly,172,17,221,28,78,37,85,Sally Callahan,1976-07-04,Elizabeth Weaver,115,10,Rebecca Gonzalez,210,118
+587,155,Noah Williams,7,50,70,22,60,45,19,Laura Bush,2017-11-09,Craig Nguyen,7,39,Zachary Taylor,12,81
+588,6,Cassandra Bond,219,75,78,86,33,24,88,Jerry Wallace,1979-10-11,Charles Clark,60,187,Amber Adkins,66,15
+589,49,Anita Griffin PhD,5,330,162,86,113,59,32,Randall Smith,2006-07-26,Jason Lyons,77,123,Jeffrey Jones,113,20
+590,40,Christine Johnson,51,70,54,78,54,181,71,Sarah Jackson,2008-11-21,Sean Solis,78,46,Sylvia Garza,110,176
+591,48,Abigail Duffy,1,84,31,98,22,95,1,Brandy Copeland,1992-11-17,Carolyn Wagner,4,2,Ebony Anderson,36,209
+592,204,Robert Hernandez,111,107,6,81,109,10,118,Christopher Cervantes,2013-12-15,Paul Deleon,160,84,Chad Lee,156,48
+593,36,Jamie Pacheco,117,47,99,137,18,126,58,William Smith,2004-01-08,David White,41,5,Michael Houston,62,45
+594,33,Robert Hernandez,33,42,63,73,169,101,178,Lisa Erickson,1980-06-18,Ryan Armstrong,30,51,Megan Cardenas,18,79
+595,43,Jason Peterson,38,3,44,20,100,174,53,Jill Morrison,2004-08-04,Daniel Cooper,7,191,Ashley Walsh,30,14
+596,59,Deborah Bell,36,52,104,78,57,157,150,Benjamin Adams,1981-03-02,Joel Thompson,49,171,Brittney Thompson,18,124
+597,6,Sarah Mckee,223,44,78,3,48,129,80,Melissa Martin,1977-01-30,Tonya Gordon,89,166,John Hanna,40,194
+598,129,Stephanie White PhD,71,16,7,83,91,307,183,Julia Marshall,2012-05-17,Cynthia Evans,58,86,Donald Dean,42,53
+599,72,Shelby Cooke,10,12,8,44,69,84,16,Zachary Gibson,1988-09-12,Peter Turner,156,27,Vincent Bell,38,21
+600,37,Patrick Shelton,31,225,142,37,36,9,157,Becky Wright,1979-09-02,Lynn Reed,44,10,Leah Bailey,47,220
+601,17,Michael Taylor,52,81,41,18,26,14,130,Matthew Curtis,2006-08-23,Jaime Haley,104,82,Christina Leach,10,33
+602,38,Nicholas Taylor,21,10,21,94,8,8,39,James Webb,1970-08-02,Jessica Smith,167,19,Robert Smith,92,236
+603,20,Toni Romero,58,245,60,62,8,34,180,Mrs. Jennifer Morgan,2019-11-07,Mr. Ronald Ward MD,89,20,Jennifer Stanton,0,40
+604,50,Rebecca Hall,72,49,22,21,105,53,61,Kathryn Wright,2018-08-04,Patrick Nelson,55,124,Dr. Frank Gonzales MD,54,58
+605,61,Cathy Sanders,28,83,39,13,11,34,20,Tina Jenkins,1974-12-17,Alan Bennett,12,53,Vicki Dickson,9,78
+606,68,William Garrison DDS,2,37,51,39,152,157,107,Brandon Rodriguez,1987-11-01,Jacqueline Martin,1,85,Charles Alvarez,140,102
+607,52,Collin Parks,25,110,125,3,99,68,9,Ricky Richardson,2016-05-31,Andrew Swanson,53,39,David Chan,0,202
+608,55,Sara Greene,65,59,144,45,22,143,163,Noah Richardson,1972-05-17,Christina Kelley,118,8,Aaron Schmidt,46,19
+609,139,Jason Young,54,50,160,9,21,146,40,Kevin Reid,1988-11-30,Rachel Gomez,81,24,Jennifer Gamble,17,96
+610,1,Christian Castaneda,40,239,40,75,54,135,24,Joseph Lewis,2014-08-30,Donald Nelson,129,81,Kathryn Ellison,22,21
+611,133,Katherine Dougherty,85,62,86,28,85,70,32,Christian Singh,1973-03-05,Jason Lane,51,13,Timothy Ward,23,95
+612,13,George Rivas,102,168,139,47,54,20,24,Amber Scott,2008-02-26,Chad Duncan,111,38,Bill Melendez,9,111
+613,1,Donald Mcbride,38,115,10,143,32,19,114,Carl Anderson,1985-01-02,Rhonda Hayes,7,42,Jennifer Wilson,123,180
+614,72,Jacob Rodriguez,130,74,132,42,81,89,33,Michelle Carlson,2004-07-21,Sabrina Lowe,79,174,Joseph Tran,76,115
+615,66,Rebekah Hunter,88,4,38,113,23,120,149,Jill Patel PhD,1984-11-01,Pamela Case,140,88,Joseph Newman,8,68
+616,77,Crystal Poole,94,151,52,53,134,26,186,Jason Medina,2002-06-30,Melissa Miller,109,237,Crystal Middleton,59,0
+617,25,Dana Richardson,140,37,135,157,126,56,8,Alisha Martin,1988-01-05,Ronald Fisher,140,53,Jack Smith,46,77
+618,13,Amy Ross,158,118,66,65,123,36,88,Brian Morrow,1999-03-02,Michael Villa,150,82,Charles Bennett,123,32
+619,136,Ricky Shepard,104,144,127,118,80,133,101,Luis Solomon,1986-07-10,Angela Adams,104,14,Ronnie Sanchez,6,152
+620,106,Edward Torres,59,46,55,126,24,80,84,Melissa Perez,2013-04-26,Tasha Owens,19,3,Walter Thomas,38,3
+621,1,James Webb,98,86,59,105,65,3,28,Laura Vasquez,1994-09-10,Nicholas Smith,165,105,Dawn Glass,30,151
+622,81,Michelle Decker,17,39,282,169,17,108,72,Jerry Nguyen,1997-05-08,Joshua Wright,42,57,John Hardin,55,49
+623,98,Johnny Mills,186,44,60,80,45,12,112,Jessica Murphy MD,1981-08-27,Stanley Carroll,97,11,Mary Moon,93,47
+624,46,Stephen Hunt,73,91,204,142,30,197,13,Donna Barrera,1972-04-18,John Flores,49,25,Thomas Ferguson,63,107
+625,26,Emily Smith,93,242,0,11,144,24,119,Misty Young,1976-07-31,Gary Green,81,145,Matthew Mitchell,112,104
+626,155,Todd Jimenez,52,75,119,23,52,102,9,Mathew Douglas Jr.,1997-01-24,William Rice,189,96,Amanda Johnson,2,97
+627,67,Lindsay Thomas,3,91,68,28,10,163,110,Juan Owens,1970-09-06,Jeffrey Martin,91,67,Amanda Dixon,45,91
+628,88,Dr. Jeffrey Moreno,162,39,138,8,22,132,237,Katie Gonzalez,1982-11-02,Thomas Flores,106,213,Eileen Gilbert,4,82
+629,138,Amanda Olson,65,124,109,97,33,41,25,Kayla White,1977-12-30,David Wood,20,47,Kevin Rios,91,101
+630,122,Teresa Barrera,84,12,54,83,183,138,61,Andrea Reeves,1993-01-04,Dennis Singleton,67,43,Robert Webb,121,110
+631,168,Brian Drake,26,115,166,17,97,118,288,Pamela Morgan,1986-02-01,John Hayden,28,98,Rebecca Carey,49,0
+632,29,James Thomas,105,54,140,129,268,141,135,Kenneth Chen MD,1983-11-20,Sonya Reese,23,118,Karen Reyes,35,104
+633,41,Suzanne Johnson,28,139,88,119,79,45,52,Stephen Morris,1993-06-02,Chelsea Hendrix,49,160,Kevin Martinez,82,69
+634,55,Matthew Griffith DDS,66,26,29,25,1,13,71,Debbie Lindsey,2001-10-25,Lauren Gonzales,70,95,Jeffrey Goodman,128,137
+635,55,Rebecca Torres,89,62,41,70,160,85,54,Lisa Villanueva,1985-11-24,Amanda Hanna,57,117,Julie Jones,90,20
+636,26,Matthew Hill,111,43,30,93,103,11,47,Krystal Butler,1980-11-12,Oscar Day,35,112,Jessica Montes,202,18
+637,43,Caitlin Martinez,155,72,16,45,11,100,108,Cameron Gonzalez,2000-08-21,Christine Ford,156,22,Jill Lopez,78,38
+638,95,Robin Watson,22,182,150,47,14,63,70,Jessica Woodward,1993-04-17,Elizabeth Smith,28,169,Nicholas Snow,70,24
+639,137,Jessica Arnold,74,38,211,81,56,6,78,Jeremy Fox,2014-04-10,Denise Rojas,24,1,John Perez,34,40
+640,104,John Gordon,116,206,9,71,23,38,15,Dr. Brian Adams,2012-07-14,Steven Foster,103,122,Matthew Smith,28,30
+641,81,Timothy Alexander,101,140,117,231,154,60,169,Mrs. Caitlin Vasquez,2013-01-22,Douglas Evans,185,19,Stacey Perez,76,50
+642,10,Wendy Gonzalez,82,1,126,76,204,217,174,Lisa Odonnell,2001-01-23,Kenneth Peterson,20,57,Laura Ward,135,45
+643,20,Craig Vang,171,81,14,83,98,113,42,Anita Becker,2015-01-31,Brian Lee,31,15,Brianna Gonzalez,4,33
+644,49,Allison Lucas,21,38,83,40,57,30,94,Tammy Garza,2017-07-10,Mackenzie Diaz,56,5,Mitchell Wilson,162,34
+645,86,Joshua Gillespie,78,116,130,233,22,36,100,John Warner,1978-03-28,Cody Duncan,181,82,Tamara Williams,13,33
+646,107,Michael Jones,79,9,80,98,9,133,44,Lee Lane,1983-01-07,Shawn Hamilton,146,12,Jane Obrien,140,182
+647,9,Kimberly Munoz,151,223,20,9,94,6,106,Victor Davis,1993-06-08,David Dennis,121,75,Mrs. Lauren Hall,14,46
+648,44,Patrick Baldwin,60,2,151,171,46,72,104,Kristina Smith,2000-01-13,Stephanie Sanders,19,269,Benjamin Davenport,82,190
+649,82,Jeffrey Butler,48,4,95,43,263,59,78,Albert Reed,1982-05-06,Richard Fisher,31,12,Jennifer Jones,161,11
+650,184,Rebecca Howard,102,8,67,141,47,9,106,Teresa Armstrong,2013-08-29,Erik Wilson,83,1,Jacob Hayes DVM,62,9
+651,207,Michele Bennett,71,172,87,123,61,107,58,Caroline Wilson,1972-01-26,Brent Fuller,162,160,Christopher Douglas,140,92
+652,94,Kristin Rodriguez,118,73,131,151,38,10,73,Dave Young,2001-10-12,Casey Wilson,30,176,Sharon Paul,73,34
+653,55,John Johnson,243,69,24,251,105,0,208,Carlos Malone,1973-12-10,Julie Waters,162,76,Bradley Richard,240,50
+654,85,Christopher Howe,163,114,117,40,233,100,81,Michaela Smith,2010-07-24,Mitchell Moore,66,140,Ann Garcia,142,111
+655,166,Lauren Clark,3,63,123,31,73,17,45,Michael Cannon,2008-09-10,Drew Stone,17,41,Amanda Jordan,149,2
+656,141,Robert Davenport,32,21,204,10,74,4,100,Joshua Hall,2016-01-14,Christina Anderson,65,19,Andrew Perkins,19,0
+657,52,Jessica Barnett,273,45,38,144,95,109,44,Ms. Jessica Reed,2019-03-14,Dr. William Morales,59,62,Ross Gonzalez,25,227
+658,125,Ryan Griffin,37,50,132,145,42,33,222,Zachary Stevenson,1970-09-03,Jessica Lee,50,197,Laura Lewis,121,24
+659,190,Mr. Phillip Brown,3,124,146,81,24,16,36,Haley Sims,2008-01-15,Jesse Marshall,40,44,Ronald Marks,43,134
+660,17,Angel Wright,23,10,151,65,73,53,10,Kyle Ortiz,2014-06-15,Denise Valdez,168,90,Grace Downs,81,72
+661,111,Jim Weaver,46,12,102,97,38,53,125,Justin Nelson,2008-10-06,Robert Wagner,57,103,Norma Cannon,14,32
+662,130,Kristie Jones,38,39,58,211,6,92,130,Kevin Calderon,1974-07-01,Marc Ford,210,95,Timothy Mitchell,5,2
+663,21,Daniel Ward,224,83,36,14,47,121,166,Mr. Tyrone Nelson,2014-03-28,Pamela Singh,4,70,Nancy Gutierrez,87,98
+664,37,Gary Lucas,27,18,42,39,3,12,45,Collin Thomas,2009-01-01,Donald Sims,4,32,David Dillon,49,40
+665,15,Jessica Wilson,69,96,23,17,69,56,89,Tonya Mccormick,1974-03-15,Rebecca Kennedy,3,65,Mary Wilcox,38,92
+666,48,Bruce Wright,8,42,35,10,10,75,30,Meredith Johnson,2011-06-16,Wendy Cruz,254,151,Kimberly Tanner,68,44
+667,40,Abigail Barber,15,83,145,45,29,125,219,Amanda Morris MD,1982-08-21,Casey Gill,134,37,Samantha Jones,33,43
+668,3,Susan Davis,25,272,64,21,13,131,64,Andrea Dickerson,1992-05-27,Harry Wallace,64,72,Nathan Sanders,45,135
+669,59,Chelsea Holmes DDS,73,12,20,107,9,16,102,Diane Hall,1972-11-15,Michael Brooks,209,68,Matthew Duncan,53,68
+670,42,Casey Foster,100,89,67,19,37,67,62,Leslie Jones,1994-12-10,Cynthia Greer,47,9,John Palmer,8,25
+671,17,Lori Howard,8,56,86,79,18,93,139,Luis Powell,1971-05-18,Stephanie Larson,29,8,Elizabeth Harvey,128,22
+672,87,Angela Perez MD,44,43,45,137,50,63,35,Ryan Alvarado,1976-07-18,Brandon Nichols,31,50,Karen Stone,44,47
+673,239,Aaron Watson,39,4,171,22,86,198,240,Trevor Beltran,1970-01-18,Michael Schmidt,78,35,Heather Travis,13,63
+674,84,Ruben Clark,22,71,21,115,66,198,151,Jennifer Rice,2007-03-24,Patrick Garner,72,141,Allison Smith MD,49,23
+675,11,Robin Benson,47,26,130,35,133,38,122,Paul Welch,1986-02-09,Kaitlyn Griffin,129,21,Thomas Jordan,75,36
+676,78,Bryan Ramirez,9,149,17,63,85,6,118,Danielle Lee,2007-05-08,John Coleman,9,27,Jordan Allen,4,25
+677,136,Christopher Peterson,203,99,15,261,85,79,63,Erica Alvarez,1973-10-10,James Rasmussen,70,13,John Smith,142,98
+678,55,Jessica Hernandez,67,277,15,48,26,122,77,Jordan Wilson,2019-08-18,Erin Taylor,88,132,Tara Reyes,238,34
+679,42,William Nguyen,209,51,109,34,57,89,40,Paula Park,1983-11-08,Jason Bush,255,45,Mallory Johnson,0,82
+680,97,Cheryl Arnold,207,111,152,55,126,81,83,William Long,1976-04-21,Isabella Robinson,131,74,Dana Tanner,74,75
+681,22,Derek Tucker,22,145,112,133,100,50,43,Anthony Cooke,1995-11-14,Crystal Jones,152,104,John Lopez,134,179
+682,76,Amy Garcia,260,33,164,42,52,138,130,Laura Wall,1986-01-14,Mark Taylor,78,79,Brett Stanley,114,2
+683,22,Steven Escobar,178,45,116,45,51,79,56,Cameron Parks DVM,2016-02-08,Elizabeth Willis,166,17,John Ramirez,179,44
+684,66,Sabrina Austin,72,94,49,165,68,107,6,James Soto,2009-02-03,Taylor Garcia,132,60,Nancy Love,111,47
+685,34,Melissa Nichols,61,3,99,126,32,74,6,Valerie Martin,2012-04-24,Jennifer Glover,77,120,Nicholas Walters,2,78
+686,45,Ernest Nelson,21,11,38,111,9,232,42,Laura Taylor,1980-09-29,Matthew Blake,29,241,Kevin Owen,164,62
+687,81,Cristian Torres,135,109,93,76,24,115,20,Mrs. Jessica Hunter MD,2014-10-20,Cole Mccarthy,11,9,Michael Henderson,6,37
+688,84,Misty Davis,22,122,7,121,184,77,47,Melissa Holt,2008-01-16,Linda Choi,15,159,Patrick Nguyen,4,42
+689,112,Amy Jones,7,95,60,10,19,3,208,Jason Williams,2009-03-06,William Banks,8,124,Lance Mcdonald,22,141
+690,97,Angela Bush,192,100,76,66,8,100,37,John Gillespie,1990-08-04,John Santiago,68,136,Shelley Freeman,34,4
+691,105,Jordan Walker,41,203,89,3,15,27,167,Glenda Hunter,1980-06-26,Jill Adams,66,2,Daniel Conrad,30,14
+692,39,Joseph Wagner,39,47,179,21,7,57,75,Bruce Tucker,2010-10-19,Nicholas Lee,99,103,Steven Crawford,57,78
+693,61,Bryce Gordon,191,221,34,25,94,75,1,Barry Phillips,1975-03-25,Erin Lin,3,139,Jean Smith,137,149
+694,140,William Sanchez,74,0,187,44,141,209,28,Daniel Henson,1978-08-03,Jonathan Reed,98,12,James Smith,123,37
+695,162,William Mayer,139,24,154,111,79,75,19,Angel Sosa,1974-09-07,Bridget Brown,82,72,Taylor Allison,19,53
+696,107,Patricia Nelson,28,12,65,26,7,238,86,Molly Stewart,1989-09-26,Craig Hayden,30,212,Sean Schwartz,27,65
+697,20,Johnny Roman,27,2,65,160,120,63,92,Jason Torres,2009-10-04,Nicholas Bennett,71,21,Joshua Drake,96,36
+698,92,Paul Smith,108,127,215,29,136,71,155,Cheryl George,1999-09-06,Kelly Murphy,31,42,Brian Robertson,40,67
+699,182,Grace Bowen,53,49,87,41,226,145,209,Eric Shepherd,1975-11-03,Whitney Gonzales,38,193,Felicia White,139,7
+700,109,Christopher Rodriguez,31,105,72,49,24,106,13,Michael Huff,2016-10-06,Tammy Pennington,238,42,Diane Garcia,77,171
+701,4,Kyle Aguilar,57,120,90,124,112,60,58,Ashley Miller,1974-07-25,Pamela Reyes,28,73,Laura Goodwin,36,43
+702,16,Alyssa Hunt,52,58,82,89,81,176,172,Jessica Martin,1976-06-30,Sabrina Lopez,139,92,Thomas Mcdaniel,43,105
+703,164,Gregory Holt,78,168,59,126,102,44,117,Vanessa Johnson,1997-12-14,Caleb Williams,104,71,Regina Jones,3,80
+704,27,Sandra Atkins,19,3,58,40,104,53,38,Anthony Smith,2005-10-22,Claudia Johnson,160,53,Michael Peters,135,42
+705,42,Randall Torres,226,18,107,231,42,18,129,Teresa Leonard,2017-10-18,Sandra Bass DDS,83,4,Kevin Moore,4,0
+706,32,Ms. Amanda Ware,178,148,40,103,261,115,44,Mr. William Stone,1992-06-24,Nathan Hale,94,131,Linda Watts,35,99
+707,50,Michael Jimenez,47,151,29,37,101,10,88,James Mitchell,1986-01-26,Walter Allen,28,147,Andrew Haynes,76,156
+708,150,Jenna Walls,5,18,37,14,6,87,77,Amanda Reid,1971-12-07,Janet Durham,7,100,Sarah Barnes,143,3
+709,4,Brandon Ford,228,41,108,34,105,115,67,Laura Anderson,1979-06-21,Justin Butler,80,137,Richard Ramirez,123,101
+710,39,Bianca Deleon,30,67,175,79,62,35,40,William Wright,1987-02-11,Douglas Anderson,62,184,Tina Newton,57,114
+711,26,Leon Sampson,122,100,31,8,205,8,47,Shannon Terrell,1989-07-18,Deborah King,9,9,Ariel Price,120,0
+712,64,Charles Brewer,55,266,48,61,32,13,66,Rick Watson,1973-08-15,Jennifer Thomas,107,147,Michael Roman,183,78
+713,196,Kimberly Chambers,146,31,73,20,15,98,98,Dr. Donna Brown,2018-03-15,Manuel Woods,69,165,Douglas Howard,32,51
+714,55,Miss Katherine Jones,58,61,0,239,43,55,4,Carrie Bright,1977-10-27,Michael Wolfe,324,85,Gary Ward,210,26
+715,22,Tim Jones,53,78,2,32,97,21,80,Jessica King,1982-10-04,Emily Robertson,143,48,Jonathan Barnes,72,6
+716,44,Beverly Young,16,76,53,72,96,298,32,Clifford Navarro,1983-01-07,Thomas Kim,71,6,Steven Washington,172,94
+717,130,Patrick Leonard,174,82,177,19,229,8,26,Brittany Lin,1976-07-01,Carrie Taylor,76,56,Zachary Decker,198,147
+718,184,Randy Wilson,77,48,47,0,5,160,108,Rebecca Buck,2012-01-28,Alex James,57,28,Roger Duarte,106,115
+719,106,Bryan Johnson,141,195,39,126,211,103,16,Michelle Higgins,1978-07-11,Tyler Parker,13,80,Justin Valentine,14,49
+720,45,Robert Thompson,120,99,231,29,24,126,85,Tammie Greer,2019-01-04,Keith Ferguson,47,134,Shawn Pittman,24,46
+721,90,Casey Bowers,33,45,134,15,31,57,30,James Franklin,1976-03-15,Kevin Powell,73,35,Samuel Hunter,218,38
+722,158,Renee Stevens,221,83,34,108,40,110,79,Tracy Brooks,2010-08-07,Alex Brown,190,40,Thomas Gilmore,24,62
+723,107,Nathan Estrada,312,128,51,115,50,76,224,Anthony Baker,1970-02-24,Elizabeth Becker,135,31,Karen Gallegos,89,149
+724,44,Adrienne Washington,39,135,110,161,23,133,21,Michael Mcgee,2004-03-27,Alex Cannon,102,149,Deanna Fuentes,65,82
+725,32,Amber Hess,128,117,51,125,21,26,139,Gina Hernandez,2003-05-25,Amanda Gibson,60,7,John Steele,114,67
+726,8,Thomas Smith,78,182,13,78,147,201,59,Rebecca Taylor,1998-12-29,Sean Hughes,19,248,Taylor White,63,115
+727,139,Andrew Deleon,118,30,113,93,163,20,110,Natalie Rodriguez,2004-07-04,Anna Miller,26,9,Erica Good,52,22
+728,117,Jaime Turner,98,55,140,73,143,41,0,Melissa Hill,2010-10-15,Kristen Watkins,136,55,Charles Dixon,129,78
+729,37,Amanda Weaver,12,45,80,140,3,86,39,Belinda Walsh,1975-04-26,Alexander Stone,83,3,Danielle Newman,21,182
+730,257,Jared Petersen,64,11,105,103,71,123,68,Dr. Danielle Stevenson,1983-02-27,Randy Howard,117,141,Jamie Wheeler,102,80
+731,58,Amy Parker,54,68,97,68,5,18,78,Zachary Rhodes,1990-08-21,Cory Guerra,47,62,Lauren Perry,53,100
+732,165,Monica Hill,17,149,110,77,33,122,67,Ashley Newton,1975-11-16,Sandra Bradford,112,87,Yolanda Munoz,31,75
+733,25,Julie Nunez,41,93,11,56,21,77,36,David White,2013-02-01,Jeanette Hart,86,45,Ashley Flores,110,86
+734,138,Steven Roberts,92,70,1,290,79,13,123,Michael Marks,1994-07-16,Justin Johnson,74,41,Robert Berry,19,24
+735,117,Eric Alexander,51,111,110,104,36,38,10,David Chan,2001-08-12,Jeremy Guerrero,91,200,Michelle Cox,10,96
+736,60,Veronica Castillo,28,10,153,27,67,23,92,John Hernandez,1984-09-04,Charles Gonzalez,109,113,Tiffany Clark,26,71
+737,0,Daniel Woods,102,34,196,60,18,63,11,James Bishop,1970-05-14,Bryce Schwartz,141,33,Krystal Martin,57,14
+738,121,Erin Roberts,73,63,16,47,25,18,50,Lauren Garcia,1990-12-05,Jeffery Goodwin,64,66,Alex King,66,33
+739,71,Jennifer Thompson,41,89,99,27,91,40,58,Jeffrey Diaz,1988-03-02,Robert Hunter,91,22,Jason Wyatt,87,26
+740,31,Brian Valencia,102,160,66,94,31,16,33,Kevin Miller,2013-08-09,Brian Dunn,161,111,Heather Anderson,112,124
+741,142,Diane Ryan,45,59,112,67,94,35,68,Calvin Robles,2016-08-14,Aaron Hoffman,9,10,Megan Spence,72,150
+742,160,Darlene Bell,144,113,136,91,41,10,6,Joseph Burton,1980-12-29,Cynthia Hernandez,86,26,Richard Houston,154,155
+743,14,Jane Lang,167,51,52,76,101,60,121,Michael Jones,1990-02-01,Javier Wheeler,59,45,Melissa Campbell,0,26
+744,129,Lisa Martin,24,190,99,60,13,30,80,Adam Carter,2010-02-21,Ashley Madden,198,44,Michael Erickson,136,135
+745,85,Catherine Logan,140,12,136,83,58,40,15,Thomas Harrison,1997-10-18,Taylor Lopez,20,42,Amanda Clark,145,54
+746,20,Katherine Diaz DDS,41,110,63,73,40,31,306,Kathleen Lewis,2008-10-18,Michele Wells,234,100,Kevin Alexander,83,15
+747,221,Richard Glass,75,3,81,181,27,116,5,Erik Morgan,1974-02-23,Michael Torres,201,66,Jennifer Perez,180,60
+748,116,Connie Benitez,151,9,8,139,57,11,152,Kevin Berg,2015-04-26,Maria Erickson,1,81,Jeffery Wu,5,109
+749,60,Kelly Hardy,126,69,53,50,61,61,69,Richard Lawson,1971-10-15,Cory Randolph,81,156,Paul Jenkins,209,98
+750,11,James Barr,33,131,148,146,180,33,107,Whitney Cooper,1972-03-19,Jennifer Brock,41,34,Jim Leonard,39,117
+751,84,Brett Burnett,2,105,106,170,63,215,170,Jacqueline Herrera,1993-01-25,Janet Robertson,54,97,Ashley Ryan,118,63
+752,14,Michael Oliver,136,58,133,36,122,0,39,Latasha Rowland,1979-10-11,Michael Lewis,130,39,Brian Acevedo,15,99
+753,10,Mary Foster,9,67,129,110,142,2,243,Brent Guzman,1980-11-08,Cody Hobbs,8,86,Charles Lee,97,68
+754,49,Amy Mcdaniel,94,97,69,70,102,68,97,Kyle Morgan,1994-07-16,Erika George,207,127,Shawn Whitney,113,81
+755,147,Andrew Lin,21,6,73,17,54,59,49,Cory Gomez,1991-09-14,Shawna Gibson,6,38,David Robertson II,4,22
+756,215,David Thompson,77,157,62,87,16,148,134,Brian Olson,1976-04-03,Gwendolyn Pittman,119,31,Shannon Green,33,51
+757,37,Jacqueline Fisher,54,80,85,153,110,36,86,Megan Bennett,1994-03-25,Joshua Munoz,24,99,Craig Reyes,148,13
+758,97,Kyle Wyatt,83,52,108,23,15,11,130,Robert Lee,2016-10-28,Kaitlyn Nelson,35,174,Thomas Davis,157,99
+759,99,Anne Andersen,25,141,93,131,51,134,34,Gregory Cole,2015-09-21,Alan Jackson,76,43,Nicholas Hanson,46,85
+760,76,Tracy Rodgers,127,110,175,147,38,96,15,David Watts,1989-11-17,Vincent Smith,52,21,Mrs. Julie Jackson PhD,158,83
+761,61,Joshua Mason,52,96,30,153,102,102,67,Dennis Garrett,1997-07-07,Alicia Sandoval,107,145,Erica Martin,111,11
+762,20,Richard Barber,129,8,68,63,102,46,57,Richard Young,1971-06-18,Timothy Ward,15,119,Robert Lucas,62,74
+763,84,Robert Mason,27,74,51,87,119,12,95,Patrick Moore,1974-05-19,Joseph Smith,15,3,Karen Bradley,48,21
+764,83,Jill Livingston,73,51,38,88,109,205,17,Diana Moreno,1989-03-22,Kyle Russell,44,162,Joseph Daugherty,69,79
+765,96,Kristine Keller,134,68,1,122,175,13,100,Kevin Scott,2017-06-08,Chad Smith,106,25,Nathan Acevedo,7,20
+766,31,Annette Price,95,58,53,74,24,41,116,Dustin Hunter,1979-10-14,Shannon Figueroa,206,219,Rebecca Price,40,38
+767,7,Dustin Carter,79,159,18,13,68,85,199,Angela Snyder,1996-07-10,Mr. Michael Roth,105,99,Brianna Stuart,65,6
+768,147,Christopher Guzman,0,39,84,157,172,134,35,Duane Lopez,1996-08-26,Keith Howard,141,45,Anthony Morris,7,41
+769,90,Jenny Melendez,89,72,49,13,98,63,149,Madison Spencer,1975-08-07,Joseph Reynolds,50,123,Bradley Galvan,24,86
+770,66,Amy Ray,99,2,1,51,103,14,167,Christine Hayes,1986-07-01,Richard Mcmahon,153,167,Stacy Miller,80,35
+771,33,Charlotte Miller,8,2,82,178,45,71,103,Henry Lewis,1975-01-21,David Anderson,111,91,Brenda Matthews,126,134
+772,79,Stacey Strickland,140,109,9,87,78,85,6,Shannon Moore,1972-09-23,Michael Cruz,13,1,Raymond Dougherty,146,166
+773,99,Tommy Frederick,186,88,100,31,132,78,13,Rebecca Miller,1992-10-23,Riley Petersen,13,100,Jennifer Yang,29,84
+774,17,Denise Ayala,114,215,179,17,196,79,26,Felicia Lara,1988-02-20,Cameron Ayala,20,106,Loretta Padilla,38,141
+775,49,Mary Gill,54,157,196,8,77,9,54,Betty Juarez,2004-08-06,Timothy Zimmerman,47,172,Crystal Watson,78,29
+776,91,Pamela Mendoza,69,59,143,43,59,78,89,Adam Peters,1999-12-26,Linda Olsen,7,165,Linda Brown,181,34
+777,160,Nathaniel Wood,216,118,93,61,143,90,84,Justin Clarke,1992-09-19,Dana Murphy,102,62,Glenn Brown,246,9
+778,59,Michael Carter,101,198,42,30,112,50,61,Danielle Sanchez,1992-02-14,Emily Rollins,163,15,Cindy Montgomery,22,79
+779,5,Andrea Johnson,92,189,65,31,61,21,36,Joshua Sullivan,2010-12-14,Elizabeth Roy,32,94,Angel Freeman,59,106
+780,71,Matthew Evans,0,132,46,104,108,61,52,Tracy Robinson,1971-01-02,Sherry Rogers,36,277,Kristi Jacobs,14,12
+781,5,Michael Cruz,28,41,125,8,48,16,189,Nicole Taylor,2011-02-28,Kimberly Stewart,144,15,Olivia Brooks,53,50
+782,26,Terri Mason,432,41,98,19,53,165,60,Mrs. Theresa Patel,2011-11-27,Lauren Lee,37,25,Angela Perry,88,145
+783,4,Gina Adams,93,208,184,2,136,32,177,Abigail Larson,1991-10-15,Savannah Hughes,47,173,Steve Garcia,41,68
+784,115,Kevin Harris,27,52,33,10,117,106,69,Lori Cooper DDS,1984-07-27,James Trujillo,199,136,Carlos Brady,126,138
+785,97,Jeffery Carson,3,125,81,7,40,91,84,Barbara Bennett,1982-08-14,Bradley Wright,149,8,Jonathan Santos,106,83
+786,78,David Nelson,37,111,347,22,47,127,62,Isaac Webster,2014-07-12,Jack Hicks,26,172,Kevin Case Jr.,54,26
+787,169,Jake Lutz,217,77,101,27,64,47,52,Briana Meyer,1986-09-14,Tyler Wilson,27,31,Robert Morgan,98,26
+788,52,Tina Martinez,225,94,33,21,81,20,90,Samuel Wu,1977-10-28,Michael Fisher,46,59,Rachel James,58,57
+789,104,Matthew Kelly,69,25,40,129,19,77,34,Anthony Fitzgerald,2006-08-29,Pamela Wallace,38,106,Erik Robinson,9,42
+790,26,Timothy Walsh,147,131,44,163,52,47,223,Justin Peterson,2013-01-18,Mark Williams,53,32,Dana Gibson,122,227
+791,55,Jessica Mayer,53,72,12,112,32,134,23,James Foley,2019-06-12,Amber Keller,4,107,David Carr,57,5
+792,56,Tiffany Johnson,75,125,30,34,55,47,75,Jessica Erickson,2014-03-07,Marcus Maynard,91,120,Brandi Boone,62,96
+793,173,Caitlin Powell,23,227,68,95,119,80,85,Emily Moore,1985-12-13,Deanna Black,184,92,James Everett,221,26
+794,40,Sharon Wilson,77,159,32,82,15,35,56,Thomas Adams,1984-03-01,Gregg Davies,69,137,Jeffrey Tran,13,70
+795,116,Wendy Pearson,54,103,83,39,31,11,38,Amanda Gonzalez,1981-06-16,Terry French,18,195,Melissa Jones,150,68
+796,34,Scott Sherman,59,102,10,57,28,42,81,Thomas Wilson,1988-10-28,James Hill,151,7,Kayla Gill,79,25
+797,92,David Lynch,89,78,11,74,78,260,17,Michelle Mcdonald,1989-06-29,Juan Jacobson,63,211,Matthew King,11,116
+798,7,Manuel Brown,3,59,53,53,39,93,22,Mr. Hector Reeves MD,2007-05-13,Leah Garza,20,61,David Rogers,83,153
+799,81,Frances Hernandez,98,81,24,39,57,18,87,Sara Lynch,1999-12-26,Steve Farmer,23,28,Samantha Sanchez,26,117
+800,118,Angela Boyd,95,114,49,52,152,190,164,Sherry Schneider,1997-09-14,Victoria Smith,35,207,Amanda Davis,123,176
+801,105,Kristen Stewart,24,53,57,68,73,230,79,Matthew Wade,1993-07-09,Chase Carroll,3,41,Susan May,131,53
+802,45,Pamela Carter,134,42,67,13,69,55,32,Joe Turner,2019-04-26,David Melendez,15,60,Tiffany Shah,24,51
+803,134,Makayla Mcmahon,158,222,9,122,28,101,66,Samuel Mckee,1980-07-19,Mr. Brad Roberts,42,19,Miranda Roberson,136,72
+804,98,David Torres,28,80,112,124,21,172,88,Hannah Moss,2012-01-06,Thomas Jones,145,45,Dustin Todd,61,150
+805,27,Shane Jimenez,23,80,65,149,131,276,61,Michael Lowe,1998-11-09,Mark Austin,178,112,Anthony Lewis,201,66
+806,184,Ronald Roberts,91,96,55,116,41,171,140,Troy Johnson,2015-09-17,Joseph Reid,151,24,Martin Gaines,55,198
+807,98,Aaron Bates,49,68,68,48,44,52,51,Scott Murray,2010-09-22,Kristen Russell,27,89,Glenda Bennett,10,46
+808,81,Steven Adams,53,22,34,139,57,127,202,Alexander Johnston,1980-11-23,Robert Luna,13,105,Kevin Galvan,100,18
+809,20,Linda Peterson DDS,211,134,148,129,232,95,101,Kathleen West,1992-05-01,Randall Miller,172,79,David Benson,160,25
+810,32,Jamie Bruce,49,116,138,101,7,15,12,Jacob Turner,1997-03-10,Kristi Hernandez,141,41,Elizabeth Harris,242,115
+811,33,Christopher Martinez,40,95,81,81,112,125,3,John Henson,2000-01-30,Brandy Young,50,100,Jonathan Howard,115,58
+812,74,Lori Cummings,133,70,11,350,29,118,13,Holly Sanchez,1992-09-05,Makayla Jones,3,162,Mariah Atkins,60,76
+813,0,Ann Simpson,26,22,0,167,89,19,11,William Diaz,1990-09-22,Sara Smith,2,1,Scott Jones,11,45
+814,100,Jerry Hernandez,137,19,33,85,63,86,86,Robert Miller,2016-10-15,Charles Guerrero,100,99,Kelly White,29,48
+815,86,Anthony Park,53,146,32,54,55,68,181,Ms. Kimberly Wall,1999-11-12,Kristi French,51,11,Crystal Frost,132,31
+816,41,Ronald Levy,6,10,26,29,23,1,67,Jose Barrett,1979-08-07,Jamie Sims,135,59,Kari Lynch,19,56
+817,20,Joseph Davis,25,116,36,88,22,221,37,Michael Thompson,1976-09-25,Mr. Wesley Leon,23,66,Laura Smith,48,17
+818,57,Jeremy Burns,95,116,59,211,75,27,101,Amy Evans,2007-06-27,Amanda Dunn,22,89,Chelsea Lawson,93,245
+819,154,Brittany Bell,62,21,61,92,95,0,1,Lori Davis,1972-09-11,Kimberly Carlson,145,99,Karen Lewis,69,153
+820,60,Timothy Thomas,52,41,198,204,102,47,7,Matthew Raymond,2005-09-12,Jessica Garcia,74,31,Andrew Melendez,59,46
+821,176,Jason Smith,23,127,76,83,187,65,24,Jeremy Luna,1987-12-13,Jerry Wood,16,30,Todd Moss,59,21
+822,229,Perry Hughes,95,7,51,32,15,61,13,Richard Benjamin,1974-11-29,Lisa Scott,35,147,Christian Moore,130,100
+823,211,Jeffrey Martin,1,175,6,70,31,31,54,Denise Thompson,1985-11-21,Tonya Campbell,80,88,Jonathan Gross,71,91
+824,198,Jessica Gordon,110,109,29,91,47,32,115,James Sullivan,2008-03-03,Stephen Hill,20,51,Kyle Alexander,2,62
+825,221,Daniel Johnson,3,123,154,34,172,32,58,Aaron Hebert,1986-06-20,Erin Harris,117,103,Charles Nguyen,97,132
+826,77,Larry Adams,28,50,25,65,122,144,62,Ryan Russell,1977-03-05,Marvin Walker,12,2,Jerry Lawrence,9,21
+827,182,Steve Eaton,102,265,36,96,11,27,110,William Wolf,2005-09-13,Kendra Odonnell,131,152,Sarah Taylor,96,19
+828,115,Regina Robertson,60,73,131,29,92,14,45,Jonathan Haynes,2007-04-22,Linda Walker,13,61,Jennifer Garcia,55,34
+829,128,Timothy Jones,25,147,147,202,7,0,100,Michael Meadows,1973-05-12,Brian Morgan,111,83,Megan Clark,108,122
+830,39,Jasmine Williams,38,10,26,147,31,154,190,Jonathan Brown,2007-05-09,Emily Wilson,135,16,Diane Morris,129,65
+831,8,James Hoffman,63,58,164,161,33,224,207,Deborah Hall,1984-06-10,Nicole Padilla,75,45,Patty Stanley,177,89
+832,128,Stuart Santos,139,102,113,219,16,105,147,Paul Lopez,1990-06-13,Matthew Johnson,168,16,Robert Horn,5,146
+833,16,Corey Yang,33,63,211,67,122,202,27,Shane Perez Jr.,2018-04-05,Xavier Hunter,177,165,Caleb Hill,85,55
+834,19,Melissa Martinez,127,173,53,58,69,150,147,Deborah Miller,2006-02-08,Taylor Harrison,36,150,Tammy Jensen,113,120
+835,48,Jonathan Barnett,228,10,71,166,27,161,43,Joseph Paul,2015-04-22,Adam Nelson,64,69,Nicole Allen,47,126
+836,30,Eric Hansen,114,101,49,9,166,49,2,George Jones,1979-11-11,Matthew Lawson,34,122,Stephanie Cook,86,152
+837,103,Benjamin Sanford,31,38,102,36,29,96,14,Melinda Johnson,1988-10-07,Jeffery Mosley,42,141,Shelley Robinson,96,32
+838,91,Patrick George,156,84,87,178,41,132,36,Brian Raymond,2005-08-23,Peggy Grant,3,192,Shane Mcfarland,16,104
+839,70,Ryan Leonard,110,13,25,129,90,35,123,Douglas Clark,2007-03-29,Katherine Parks,57,207,Deanna Sims,0,172
+840,14,Rhonda Clark,15,121,23,11,130,128,76,Lauren Ortiz,2008-12-22,Ann Walker,3,68,Dr. Tyler Gallegos,90,116
+841,93,Michael Crosby,5,6,44,90,8,79,148,Samantha Anderson,1997-07-04,Carl Lopez,136,61,Tiffany Shaffer,95,48
+842,145,Zachary Herrera,31,74,60,209,20,30,12,Tanya Jones MD,1982-04-20,Suzanne Torres,79,116,Claire Kelley,165,17
+843,56,George West,110,90,182,55,83,94,11,Shannon Anderson,1995-09-01,Heather Evans,64,79,Kenneth Lester,127,67
+844,235,Anna Mckenzie,122,15,22,21,19,35,7,John Olsen,1985-04-19,Kayla Mcclure DVM,30,60,Carrie Meyer,13,197
+845,28,Nicole Garcia PhD,100,88,65,109,169,163,24,Amy Moore,1980-02-06,Matthew Hammond Jr.,11,37,Nicole Torres,61,97
+846,144,Laura Rogers,12,126,16,171,77,253,98,Karen Wagner,1972-07-20,Thomas Lewis,32,87,Annette Reid,69,42
+847,33,Kristin Williamson,146,15,69,103,29,21,200,Derrick David,1992-05-30,Catherine Rice,74,35,Whitney Alexander,66,46
+848,133,Mitchell Barnes,50,111,62,47,122,89,91,Teresa Martin,2012-05-04,Angela Mclean,31,37,Marilyn Rodriguez,226,11
+849,32,Brian Cameron,32,44,103,110,105,141,11,Angela Rose,1978-03-12,Brandy Martin,169,34,James Gay,129,23
+850,76,Logan Smith,20,85,66,83,97,30,180,April Smith,2016-01-15,John Martinez,33,246,Jeffrey Wallace,63,184
+851,52,Kristy Jackson,138,103,115,82,173,35,6,Felicia Conley,1989-10-28,Jamie Camacho,94,41,Tina Jackson,246,63
+852,6,Diane Baker,28,67,48,115,28,218,62,Linda Valenzuela,2014-04-15,Veronica Salinas,87,81,Cynthia Mcclure,34,32
+853,122,Ashley Hicks,35,98,16,118,94,58,66,Amy Rollins,2004-05-11,Casey Olson,14,97,Mr. Daniel Fox DVM,7,29
+854,59,Samantha Hood,182,8,112,39,75,181,105,Tony King,1989-04-18,Michael Evans,134,68,Ryan Nguyen,194,99
+855,102,Luis Gonzalez,216,77,118,75,227,69,38,Travis Williams,2012-12-09,William Mccall,58,2,Charles Henry,36,119
+856,74,Christina Curry,25,2,32,54,103,80,119,David Reyes,2017-03-14,Sharon Hernandez,91,68,Elaine Jones,136,151
+857,141,Julia Lawrence,129,162,56,118,19,0,220,Melissa Gonzalez,1998-04-27,Debra Greer,45,91,Ann Harris,66,62
+858,44,Cynthia Young,0,119,28,18,67,178,134,Scott Thompson,1991-06-25,Mary Smith,23,52,Whitney Hanson,105,1
+859,157,Peter Smith,15,102,53,25,122,84,67,Mary Armstrong MD,1973-12-01,Jennifer Mullen,35,163,Thomas Smith,32,77
+860,80,Nichole Osborn,45,94,115,98,206,154,156,Dr. Rebecca Gutierrez MD,2003-12-24,Joseph Molina,23,1,Alexis Dominguez,24,175
+861,25,Mrs. Sydney Petty,13,34,143,50,104,124,49,Megan Sullivan,1972-04-06,Terry Thomas,27,44,Michael Boyer,64,49
+862,35,Carrie Mccormick,58,67,76,80,35,208,19,Sara Thomas,1971-03-29,Bradley Parker,13,30,Debbie Wagner,139,10
+863,36,Justin Guzman,50,22,53,108,9,194,5,Valerie Hebert,1986-09-26,Adam Harrison,182,46,John Erickson,0,31
+864,1,Javier Rosario,0,177,41,158,23,44,106,Sarah Gonzalez,1986-01-02,Terry Flores,215,29,Courtney Gates,49,154
+865,4,Michael Watson,50,90,29,106,341,102,35,Robert Bass,1994-04-27,Jennifer Perez,30,105,James Evans,6,109
+866,117,Andrew Allen,224,53,83,115,63,134,34,Jennifer White,2001-09-01,Eduardo Rios,19,87,Carlos Davis,17,107
+867,107,Elizabeth Hudson,101,20,161,88,134,81,114,Evan Morris,1992-02-13,Linda Rodriguez,73,106,Brad White,219,62
+868,25,Nicholas Combs Jr.,40,27,163,38,2,86,64,Karen Jones,1984-10-30,Kevin Scott,81,87,Mark Espinoza,234,38
+869,32,John Jones,111,57,57,30,92,144,128,Jodi Wagner,1986-07-10,Derrick Mcmahon,94,111,Kevin Horton,168,128
+870,143,Ryan Morgan,83,87,158,75,147,9,57,Debbie Hutchinson,1988-04-24,Jacqueline King,2,32,Troy Walsh,127,55
+871,19,Dr. Melissa Morgan,90,73,184,39,131,158,112,Tyrone Edwards,1995-04-27,Jennifer Parker,102,225,Phillip Johnson,32,39
+872,45,Mrs. Donna Rogers DVM,3,1,13,38,113,222,7,Caroline Carson,2011-05-01,Elizabeth Morales,48,115,Amy Hughes,224,93
+873,60,Elizabeth Black,34,140,28,44,39,72,68,Abigail Hall,1993-08-15,James Turner,158,245,Keith Gonzalez,8,150
+874,40,Angel Lewis,48,108,99,28,205,124,73,Ralph Vasquez,1970-02-24,Jennifer Cannon,109,37,Joseph Davis,164,153
+875,116,Michelle Hicks,95,225,11,230,44,42,116,Howard Owens,2012-09-26,Denise Williams,38,42,Cody Fischer,47,71
+876,40,Stacey Chandler,26,54,66,26,60,77,132,Mary Dixon,1978-04-30,Michelle Roth,50,23,Laurie Morris,276,35
+877,36,Misty Robertson,97,101,36,200,69,53,280,Jesus Jacobs,2010-12-07,Katherine Campbell,0,104,Lucas Roberson,162,56
+878,126,Randall Gonzalez,34,12,72,154,128,44,63,Renee Luna,1986-08-31,Matthew Davis,31,98,Jason Hughes,22,85
+879,195,Sarah Dawson,56,113,50,153,71,29,55,Dennis Davis Jr.,1973-10-21,Darren Brown,145,1,Mrs. Michelle Soto,78,148
+880,112,Steven Johnson,241,186,11,5,180,73,5,Madeline Salas,2007-03-26,Barbara Kim,38,61,Michelle Ferguson,42,66
+881,47,Leonard Sims,5,89,54,63,89,13,341,Raymond Snow,2002-09-09,Stephanie Wright,21,120,Morgan Wilson,49,77
+882,4,Marc Sanchez,23,100,28,199,8,177,1,Cathy Snyder,1987-05-23,Samantha Cobb,77,33,Michael Dunlap,94,54
+883,21,Matthew Massey,79,38,59,1,161,220,149,Amber Kelley,1998-10-14,Sharon Leonard,49,73,Cynthia Bailey,32,37
+884,143,Donna Rodriguez,84,11,33,91,93,89,35,Angel Robertson,1971-03-16,Brandi Reed,137,79,Frank Edwards,144,142
+885,130,Sierra Schmidt,3,28,23,71,41,31,171,Caroline Vega,1991-01-22,Matthew Taylor,0,7,Rachel Moses,126,132
+886,15,Margaret Gonzalez,159,148,34,185,90,104,57,Kevin Perkins,1994-10-22,Kimberly Miller,60,14,Brian Smith,161,5
+887,70,Latasha Wilson,120,115,33,87,243,25,70,Gavin Martin,1978-04-13,Alexis Mata,36,46,Robert Garcia,66,158
+888,30,Willie Brown,127,43,170,14,128,40,89,Isabel Ryan,2010-04-15,Audrey Miller,69,29,Jacqueline Adams,99,52
+889,41,Christopher Shea,6,145,82,9,155,92,49,Sharon Miller,1990-12-23,Terry Roberts,172,71,Seth Wu,8,106
+890,85,Denise Chaney,76,33,115,172,9,8,62,Jamie Gregory,1992-09-05,Tammy Ray,36,91,Andrew Blake,63,113
+891,186,Susan Hall,2,102,95,7,25,75,43,Austin Brooks Jr.,1975-07-05,Jennifer Johnston,112,142,Taylor Payne,24,33
+892,20,Kathryn Roberts,187,172,26,18,54,92,72,Joseph Diaz,1985-09-16,Kellie Parker,104,49,Virginia Yang,10,153
+893,2,Jeffrey Sherman,76,92,119,133,104,38,98,Michael Lang,1980-01-20,Hannah Benton,46,15,Steven Williams,13,20
+894,47,Shannon Anderson,74,105,133,59,44,136,82,Catherine Martinez,1991-01-15,Perry Bradshaw,112,45,Eric Villegas,168,36
+895,81,Chelsea Montgomery,38,16,89,88,120,53,48,Teresa Hoffman,1991-12-12,Nicole Nelson,42,55,Joseph Bush,107,132
+896,40,Kevin Garcia,98,62,21,67,169,11,142,John Ortega,1973-06-30,John Sanchez,91,5,Mr. Roger Carter,38,12
+897,97,Tony Bernard,212,62,15,67,90,79,25,Mary Harrison,2000-12-30,Jessica Johnson,38,21,Peter Hall,119,92
+898,17,Billy Romero,108,40,209,8,14,67,71,Michael Conley,2016-11-27,Vincent Stone,80,223,Eric Lucas,8,58
+899,66,Ashley Macias,1,101,81,115,215,44,75,Martin Lang,1997-12-21,Katherine Flores,53,65,Mrs. Cindy Jones,0,127
+900,101,Timothy Abbott,65,70,139,98,150,23,29,Robin Espinoza,1977-08-09,Colton Robles,25,43,John Parks,75,56
+901,219,Amanda Rodriguez,118,5,2,28,60,109,42,Jenna Webb,2016-05-04,Katherine Spencer,106,113,Christina Archer,69,119
+902,159,Scott Taylor,76,120,87,35,30,57,28,Veronica Martinez,1981-02-01,Alexander Santiago,124,52,Katie Baker,68,30
+903,97,Tammy Richardson,37,24,5,156,6,126,298,Terry Bright,1994-02-03,Andrew Wright,155,37,David Alvarado,95,24
+904,5,Veronica Black,21,60,8,55,64,56,89,Mr. Daniel Mccoy,2018-10-21,Heather Rios,50,40,Sean Lopez,123,0
+905,117,Tony Scott,47,50,28,104,23,240,14,Donald Hall,1998-08-07,Jaime Miller,3,6,Nancy Rhodes,78,111
+906,91,Amanda Frye,131,61,64,51,33,38,181,Craig Burch,1983-08-28,Hannah Rivera,92,79,Jonathan Garrett,91,123
+907,198,Jeffrey Davis,14,92,2,41,111,32,203,John Owens,1972-01-14,Jessica Cunningham,16,92,Antonio Vasquez,117,146
+908,109,Jonathan Cohen,23,6,6,128,59,86,15,Taylor Gonzales,1978-01-22,Kurt Villegas,163,57,Savannah Todd,155,106
+909,11,Wayne Lewis,162,209,105,130,43,80,45,Heather Mitchell,2007-01-02,Aaron Henry DDS,83,149,Randy Gutierrez,2,49
+910,77,Megan Hopkins,59,10,171,174,20,138,21,Kathryn Howell,1976-09-18,Kathy Brady,75,193,Christopher Davis,170,132
+911,98,Katherine Mcneil,190,150,22,53,169,101,99,Mathew Rodriguez,2015-01-16,Daniel Decker,5,28,Adam Cross,73,145
+912,137,Ryan Rodriguez,85,27,57,34,116,125,177,Susan Cardenas,1996-07-17,Pamela Martinez,11,56,Megan Vance,24,102
+913,26,Bryan Haas,29,118,67,87,116,60,51,Mrs. Brianna Jenkins DDS,2009-02-06,Amy Allison,20,142,Morgan Shaw,46,85
+914,99,Daniel Dalton,81,134,181,243,42,36,115,Ashley Perez,1988-06-02,William Mitchell,84,18,Brian Mason,39,55
+915,26,Rebecca Schroeder,47,25,159,41,34,55,129,Scott Harper,1983-01-05,Matthew Downs,129,110,Sarah Fernandez,2,49
+916,135,Jillian Gregory,28,35,30,148,14,46,140,Connie Simmons,2018-10-22,Sharon Velez,39,17,Cheryl Miller,96,233
+917,20,Kelly Howe,1,64,107,110,173,85,116,Aaron Carter DDS,1987-03-07,Steve Boyd,53,100,Christina Herman,15,142
+918,143,Heidi Estrada,152,32,116,23,51,107,120,Christopher Armstrong,2000-04-25,Thomas Smith,29,37,Kelli Goodman,43,42
+919,15,Larry Hall,40,43,75,211,0,26,289,Christine Mueller,1983-12-01,Andrew Mora,114,44,Robin Taylor,30,219
+920,46,Charles Miller,24,109,35,60,25,130,15,Darrell Jackson,2001-05-22,Michael Morse,94,1,Michael Brown,135,11
+921,158,John Kelly,78,89,128,21,32,38,41,Marissa Dennis,1985-04-16,Michael Miller,58,297,Zachary Jimenez,66,158
+922,126,Jill Lopez,107,20,118,214,30,20,171,Robert Miller,1991-07-14,Diane Bennett MD,109,98,Mrs. Kathy Buckley PhD,31,28
+923,26,Ryan Mills,14,168,141,29,26,121,37,Michael Reyes,1992-12-23,Shaun Knight,128,45,Mallory Koch,7,47
+924,75,Rachel Brown,141,48,74,73,55,187,29,Sydney Jordan,1989-04-18,Kevin Jackson,129,117,Caitlin Franco,190,58
+925,37,Tanya Watson,80,31,16,28,37,40,63,Danielle Wheeler,1972-03-11,Kimberly Jones,102,125,Adam Crane,61,96
+926,81,Joseph Bennett,55,79,20,20,1,271,0,David Vargas,2001-12-19,Jennifer Walker,247,81,Sharon Howe,28,28
+927,109,Natalie Allen,76,227,11,15,0,79,157,Andrew Green,1981-07-20,Nicholas Myers,88,257,Scott Miranda,24,10
+928,217,Susan Williams,122,25,158,87,55,6,86,Joseph Andrade,1980-02-21,Matthew Thompson,95,135,Aaron Ayala,3,42
+929,53,Gregory Miller,128,135,51,81,246,40,70,Shari White,1993-02-19,Mr. Robert Martinez,37,104,Stephanie Martin,192,48
+930,18,Cathy Martin,39,61,24,61,110,33,121,Nathaniel Tucker,1980-06-27,Sarah Rivera,27,7,Nicole Collins,20,19
+931,76,Mary Holmes,63,15,161,267,127,36,64,Alexander Bullock,2009-03-14,Ethan Jones,26,26,Robin Martinez,5,76
+932,111,Michael Farmer,129,50,104,32,132,6,66,April Snow,1984-05-11,Erica Snyder,162,31,Alan Roberts,61,6
+933,74,Chris Cummings,46,150,11,166,189,31,33,Anita Watson,1976-09-17,Mark Myers,39,86,Christina Conway,203,102
+934,67,Ms. Dana Rogers,122,49,215,104,44,75,63,Mary Bennett,1994-01-29,Gary Schmidt,103,35,Karen Sanchez DDS,141,55
+935,29,Alicia Tate,93,191,70,98,42,75,17,Vanessa Hogan,1997-04-06,Jake Browning,65,62,Jason Rodriguez,44,52
+936,68,Lisa Ferguson,106,96,3,100,45,20,119,Ian Tucker,1972-06-09,Noah Vazquez,73,160,Aaron Klein,190,26
+937,88,James Smith,125,200,96,22,51,1,101,Monica Higgins,2014-03-06,Vanessa Skinner,13,34,Rachel Gonzalez,205,195
+938,167,Jennifer Wilson,41,62,1,199,147,31,96,Tracy Singh,1980-09-06,Christy Reed,166,175,Emily Ramirez,141,69
+939,1,Mark Suarez,132,6,44,94,94,69,119,Vanessa Randolph,1983-03-10,Isaiah Rodgers,52,35,Michael Parker,181,34
+940,84,Jordan Spencer,202,84,73,42,113,0,61,Melinda Taylor,1996-10-12,Margaret Hanna,42,23,Nancy Brown,126,65
+941,0,Ryan Howard,0,20,14,126,29,113,92,Andrew Torres,1989-01-07,Todd Thompson,49,14,Todd Peterson,81,80
+942,71,Catherine Barrett,15,42,73,48,144,236,60,Ernest Hunter,1987-10-28,Chad Roman,100,65,Amy Goodman,89,33
+943,1,James Cox,253,12,133,29,43,7,107,Hector Cowan,1986-03-15,Miguel Jordan,20,95,Daisy Rose,1,72
+944,243,William Deleon,112,72,193,45,51,161,34,Debra Adams,1991-02-01,Tara Durham,155,31,John Lee,32,31
+945,13,Mr. Patrick Grant,86,120,13,134,108,22,18,Adrian Sanders,1982-12-19,Daniel Russell,41,95,Kerri Cohen,87,73
+946,0,Sara Gardner,160,99,44,157,66,24,56,Emily Bradley,1999-12-26,Kristin Young,36,6,Robert Dodson,196,101
+947,13,Jennifer Diaz,33,6,11,136,84,6,84,Erica Johnson,1974-04-17,Cheryl Wells,82,101,Jason Morales,51,2
+948,153,Stacey Green,42,175,125,15,29,31,75,Jasmine Willis,2014-04-15,Martin Lopez,259,127,Edward Andrews,74,27
+949,56,Craig Stephens,75,31,73,32,81,223,88,Jessica Wilson,1972-03-01,Steven Thompson,64,39,Michael Wright,156,85
+950,15,Alexis Bradley,63,36,124,72,57,197,87,David Walsh,1991-10-12,Krystal Lee,47,139,Ryan Richardson,182,79
+951,21,Douglas Tucker,139,236,52,0,290,81,36,Jennifer Carrillo,2005-02-13,Marissa Jones,109,95,Stephanie Williams,92,131
+952,153,Jonathan Kim,58,65,74,2,3,156,81,Samuel Thomas,2011-01-28,Kenneth Taylor,123,240,Julian Payne,0,127
+953,63,Kenneth Burton,82,4,4,115,46,45,33,Amy Berry,2011-02-11,Chad Ray,34,155,Stacey Barrera,172,203
+954,4,Marvin Graham,54,95,83,170,59,72,231,Carl Park,1992-08-25,Angel Colon,25,63,Andrea Lewis,5,91
+955,46,Laurie Stevens,64,158,15,57,36,140,10,Melinda Hughes,1976-10-28,Rodney Smith,37,113,Melinda Morris,102,113
+956,28,Christina Andersen,253,93,197,7,72,109,232,David Johnson,2019-04-30,Sarah Garcia,64,82,James Gibson,95,149
+957,74,Sheila Harmon,87,44,21,21,163,47,104,Allison Johnston,1984-10-23,Jenna Whitehead,58,136,Terri Rice,1,115
+958,73,Andrea Landry,77,120,212,15,126,146,20,Terry King,1994-07-07,Renee Lopez,59,72,Jorge White,113,0
+959,29,Anthony Morrow,13,34,81,175,40,189,13,Michael Williams,1997-03-19,Jamie Chavez,45,176,Bobby Hill,75,106
+960,20,Scott Parsons,56,126,116,3,130,48,107,Joseph Thompson,2006-08-03,Susan Davis,92,46,Tara Brown,210,105
+961,48,Keith Johnston,36,7,31,136,105,153,27,Mike Bell,1982-09-29,Michael Johnson,8,185,Corey Brown,100,147
+962,32,Kirk Roman,144,24,12,108,89,106,89,Caitlin Jones,2015-05-12,Felicia Lopez,15,79,Sherry Davis,1,93
+963,132,Jason West,97,80,24,110,21,97,76,Valerie Phillips,1982-03-06,Richard Evans,19,81,Justin Murray,62,199
+964,147,Wendy Johnson,34,107,138,103,62,45,10,Brian Oneal,2018-06-10,Debra Dodson,254,64,Mrs. Kelly Cordova,11,77
+965,204,Cody Jackson,10,38,31,32,82,110,8,Timothy Walker,1978-06-14,Lisa Mcpherson,33,43,Lori Peterson,108,165
+966,51,Erika Smith,272,38,36,22,144,45,49,Alexander Wilcox,1989-12-29,Matthew Palmer,85,210,Wendy Ortega,38,124
+967,18,Mr. Charles Wilson,14,139,60,38,10,162,76,Jon Curry,2015-08-05,John Lee,215,139,Alicia Fleming,72,67
+968,8,Chelsea Caldwell,4,113,49,14,5,64,153,Jessica Johnson,1998-02-24,Monica Bowers,0,127,Samantha Ruiz,77,136
+969,90,Charles Castro,102,55,63,10,22,239,192,Alexander Murillo,1986-08-25,Nicholas Young,9,64,Alec Pierce,38,92
+970,276,Shannon Reid,41,26,173,44,88,59,32,Ronald White,1994-05-30,Stacey Abbott,118,42,Craig Daniel,34,122
+971,102,Stephen Barry,110,113,127,26,85,125,162,James Martinez,1982-05-01,Mrs. Jessica Garcia,57,177,Patricia Brown,95,118
+972,58,Kevin Porter,2,26,55,17,109,64,1,Robin Silva,1985-01-22,Jessica Anderson,27,103,Sarah Smith,86,87
+973,3,Jacqueline Owens,101,253,159,90,135,26,4,Daniel Paul,1985-12-31,Julia King,17,130,Marissa Holloway,42,71
+974,44,Andrea Jones,1,116,86,50,132,86,9,Ruth Mejia,2006-05-01,Martin Franklin,89,187,Jason Stewart,63,76
+975,84,Erin Wiley,119,30,209,114,127,117,50,Jimmy Carr,2012-10-10,Crystal Fleming,3,3,Patricia Khan,101,23
+976,96,David Bauer,102,29,120,108,11,151,18,Jennifer Lopez,1976-11-10,Tracy Johnson,57,104,Joseph Hicks,12,141
+977,8,Melissa Welch,107,143,144,38,49,142,78,Harry Jennings,1996-12-13,Trevor Cole,35,208,Rhonda Gutierrez,71,99
+978,90,Randall Flores,103,193,299,121,107,38,136,Destiny Foster,2017-07-08,Kenneth Hernandez,35,8,Denise Anderson,31,17
+979,105,John Garcia,132,32,2,102,6,31,16,Jacqueline Dickson,1972-07-20,Kayla Irwin,131,65,Keith Smith,17,3
+980,71,David Powell,164,80,12,29,24,67,31,Nicholas Lozano,1972-01-24,Jason Martin,23,138,Don Wells,66,89
+981,155,Colin Cervantes,162,126,104,46,47,33,114,Maria Allen,1984-02-07,Mark Reyes,79,75,William Miller,172,37
+982,13,Beth Butler,56,83,225,63,142,59,27,Sean Lewis,2007-02-14,Kevin Jones,11,32,Richard Walker,136,78
+983,107,Mr. Luis Anderson,22,8,30,121,34,79,44,Gina Horn,1978-07-12,Mrs. Destiny Allison,37,81,Rick Lucas,28,17
+984,134,William Luna,126,81,78,36,45,130,150,Jerome Mclaughlin,1973-12-10,Peter Matthews,93,21,Kaitlyn Smith,66,70
+985,101,Jessica Evans,42,124,129,11,182,58,49,Isaac Brooks,2015-01-04,Lisa Williamson,102,106,Andrew Watson,217,0
+986,26,Robin Henry,99,51,142,151,43,8,134,Emily Patton,2016-06-13,Rebecca Mcclain,102,29,Tara Stevens,14,77
+987,83,Debbie Chang,134,45,176,124,95,81,42,Cindy Sullivan,2005-02-12,Audrey Orozco,47,242,David Robinson,29,6
+988,34,Timothy Solis,100,65,22,65,131,35,65,Tracy Vang,2003-09-28,Cynthia Mckenzie,138,201,David Adams,38,53
+989,1,Michael Gonzales,158,96,149,80,4,74,6,John Munoz,1987-10-25,Monica Johnson,31,103,Natalie Flores MD,38,63
+990,99,Kathryn Jacobs,125,53,156,70,79,116,21,Jonathan Roach,2016-01-26,Elizabeth Ortega,155,270,Kristi Kelly,25,90
+991,27,Hayden Montes,48,151,137,46,30,144,164,Cristian Palmer,1994-05-08,Cathy Norman,200,90,Elizabeth Ford,40,34
+992,94,Norman Daniel,13,1,48,83,9,140,216,Victoria Sullivan,2003-04-20,David Long,112,23,Karla Weaver,58,104
+993,145,Hannah Jones,92,19,73,144,24,48,135,Jennifer Coleman,1982-02-06,Caleb Ruiz,83,49,Alexandra Daniel,58,83
+994,111,Sarah Haas,106,51,39,189,47,80,149,William Smith,1986-02-23,Ryan Willis,92,53,Jeremy Bauer,35,67
+995,113,Mrs. Jessica Rose,53,74,37,6,68,25,21,Molly Compton MD,2003-12-20,Ashley Harris,84,56,Dr. Autumn Moore MD,15,4
+996,119,Billy Chang,87,161,78,136,45,138,32,Jordan Pineda,1998-03-12,Sara Harrington,127,2,Heather Flores,50,18
+997,309,James Lowery,88,123,65,157,135,109,227,Bradley Smith,2016-12-25,Brandon Bennett,2,116,Carly Chavez,28,88
+998,122,Patrick Townsend,45,37,62,45,47,36,32,Kristin Edwards,2018-08-07,Wendy Anderson,116,77,Kelly Jones,3,51
+999,5,Victor Gonzalez,79,186,43,118,261,70,109,Lauren Miller,1970-05-26,Jessica Wilson,316,30,Jorge Mcpherson,30,57
+1000,10,Angela Boyd,105,56,142,24,81,28,47,Matthew Henry,1998-06-29,Mark Beck,22,142,Charles Tanner,64,64
