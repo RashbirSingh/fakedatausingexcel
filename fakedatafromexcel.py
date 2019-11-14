@@ -21,10 +21,10 @@ class fakedata:
             datalist.append(abs(int(np.random.normal(loc, scale))))
         return datalist
     
-    def fakedatagenarator(self, repeat=1000, start_id=1, path='output'):
+    def fakedatagenarator(self, in_path, repeat=1000, start_id=1, out_path='output'):
         fake = Faker()
         df_new=pd.DataFrame()
-        xl = pd.ExcelFile("Related.XLSX")
+        xl = pd.ExcelFile(in_path)
         sheetsList = xl.sheet_names
         sheetsList.remove('List Table')
         
@@ -51,8 +51,8 @@ class fakedata:
             
             df_new.index=list(np.array(df_new.index)+start_id)
             
-            if not os.path.exists(path):
-                os.makedirs(path)
+            if not os.path.exists(out_path):
+                os.makedirs(out_path)
                 
-            df_new.to_csv(path+'/'+sheet+'.csv', index=True, header=True)
+            df_new.to_csv(out_path+'/'+sheet+'.csv', index=True, header=True)
             df_new = pd.DataFrame()
